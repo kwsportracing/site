@@ -354,7 +354,7 @@ footer .copyright a {
 #hero {
   padding: 40px 40px 30px;
   /*background-color: #fff;*/
-  background-image:    url("/img/background.jpg");
+  background-image:    url("../img/background.jpg");
   background-size:     cover;                      /* <------ */
   background-repeat:   no-repeat;
   background-position: center center;              /* optional, center the image */
