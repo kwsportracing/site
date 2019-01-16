@@ -1,4 +1,5 @@
 title: KW Sport Racing
+
 project_name: KW Sport Racing
 description: >
   KW Sport Racing Motorcycle Track Days in Ontario Canada
@@ -14,7 +15,7 @@ home_url: http://kwsportracing.com
 author_name: Copyright ©2019 KW Sport Racing
 author_url: https://github.com/cdrage/kwsportracing/graphs/contributors
 
-url: http://charliedrage.com/kwsportracing
+url: http://charliedrage.com/kwsportracing/
 
 license: KW Sport Racing is an Apache 2.0 project.
 copyright: Copyright ©2019 KW Sport Racing

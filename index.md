@@ -1,5 +1,6 @@
 ---
 layout: index
+title: KW Sport Racing
 ---
 
 ## 2019 Dates
