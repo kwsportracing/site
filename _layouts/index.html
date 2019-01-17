@@ -33,12 +33,13 @@
             </h2>
         </div>
         <div class="features">
-          <p><a class="button" href="{{ site.facebook }}">Join us on Facebook!</a> <a class="button white" href="{{ site.registration }}" target="_blank">Book your next track day!
+          <p><a class="button" href="{{ site.facebook }}" target="_blank">Join us on Facebook!</a> <a class="button white" href="{{ site.registration }}" target="_blank">Book your next track day!
             </a></p>
         </div>
           <br>
           <div class="inner icons"></div>
       </div>
+          <div class="dates"><a href="/dates/">Click here to view our 2019 dates!</a></div>
     </div>
     <main>
       <section>
@@ -62,7 +63,7 @@
           <h3>Links</h3>
           <ul>
           {% for item in site.data.menu.footer %}
-              <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+              <li><a href="{{ item[1] }}" target="_blank">{{ item[0] }}</a></li>
           {% endfor %}
           </ul>
         </nav>

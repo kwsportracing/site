@@ -28,7 +28,7 @@ a {
   background: #3a3837;
   color: #FFFFFF;
   text-align: center;
-  padding: 10px 0 50px 0;
+  padding: 10px 0 20px 0;
   font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -551,4 +551,13 @@ section img {
 
 .links .bold {
   font-weight:700;
+}
+
+.dates {
+  padding-top:10px;
+}
+
+.dates a {
+  font-weight:700;
+  color: white;
 }

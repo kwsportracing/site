@@ -4,61 +4,63 @@
   {% include head.html %}
 
   <!-- CSS -->
-  <link href="{{ site.baseurl }}/css/default.css" rel="stylesheet" type="text/css">
-  <link href="{{ site.baseurl }}/css/pilcrow.css" rel="stylesheet" type="text/css">
+  <link href="{{ site.baseurl }}/css/main.css" rel="stylesheet" type="text/css">
+  <link href="{{ site.baseurl }}/css/hljs-github.min.css" rel="stylesheet" type="text/css">
 
-<body>
-
+  <body>
   <header>
+    <!--
+    <div>
     <a class="logo" href="/">
       <img class="parcel" src="{{ site.baseurl }}/img/logo.png" height="30"alt="">
     </a>
+    </div>
+    -->
     <div class="links">
-      <a href="{{ site.baseurl}}{{ site.docs_index }}">Documentation</a> <a href="{{ site.repository_url }}" target="_blank">GitHub</a>
+      {% for item in site.data.menu.other_links %}
+          <a href="{{ item[1] }}">{{ item[0] }}</a></li>
+      {% endfor %}
+      <a href="{{ site.facebook }}" class="bold" target="_blank">Facebook</a> 
+      <a href="{{ site.registration }}" class="bold" target="_blank">Registration</a>
     </div>
   </header>
-
-  <div class="content">
-    <nav>
-      <h3>Documentation</h3>
-      <ul>
-        {% for item in site.data.menu.items %}
-          {% if page.url == item[1] %}
-            <li><a class="active" href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% else %}
-            <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-      <h3>Advanced</h3>
-      <ul>
-        {% for item in site.data.menu.advanced %}
-          {% if page.url == item[1] %}
-            <li><a class="active" href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% else %}
-            <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-      <h3>Development</h3>
-      <ul>
-        {% for item in site.data.menu.development %}
-          {% if page.url == item[1] %}
-            <li><a class="active" href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% else %}
-            <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
-    </nav>
-
-
     <main>
-
-    {{ content }}
-
+      <section>
+        {{ content }}
+      </section>
     </main>
-  </div>
-</body>
+    <footer>
+      <a class="button" href="{{ site.registration }}">Book your next track day!</a>
+      <div class="content">
+        <nav>
+          <h3>Information</h3>
+          <div>
+            <ul>
+            {% for item in site.data.menu.other_links %}
+                <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
+            {% endfor %}
+            </ul>
+          </div>
+        </nav>
+        <nav>
+          <h3>Links</h3>
+          <ul>
+          {% for item in site.data.menu.footer %}
+              <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
+          {% endfor %}
+          </ul>
+        </nav>
+      </div>
+      <div class="copyright">
+        <img src="{{ site.baseurl }}/img/logo.png" class="redhat-logo"></img>
+        <p>
+        {{ site.copyright }}
+        </p>
+      </div>
+    </footer>
+    <div></div>
+  </body>
 
+  <!-- ICONS -->
+  <script src="{{ site.baseurl }}/js/icons.js"></script>
 </html>

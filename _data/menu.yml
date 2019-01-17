@@ -1,10 +1,9 @@
 other_links:
-  "About Us": "#about-us"
-  "Rules and Requirements": "#rules-and-requirements"
-  "Book Your Track Day": "#book-your-track-day"
-  "Contact Us": "#contact-us"
-  "Media": "#media"
+  "About Us": "/"
+  "Dates and Location": "/dates/"
+  "Rules and Regulations": "/rules/"
+  "Photos and Videos": "/media/"
   
 footer:
   "Facebook": "http://www.facebook.com/groups/KWSportRacing/"
-  "Registration": "https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform"
+  "Book Your Track Day": "https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform"
