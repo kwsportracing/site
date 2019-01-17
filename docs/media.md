@@ -8,7 +8,7 @@ permalink: /media/
 
 ### Videos
 
-<iframe width="100%" height="400px" src="https://www.youtube.com/embed/04iVIVKCyrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/04iVIVKCyrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Photos
 
