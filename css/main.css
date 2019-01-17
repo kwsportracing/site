@@ -472,7 +472,7 @@ footer .copyright a {
 }
 
 header {
-  position: inherit;
+  position: sticky;
   top: 0;
   background: #3a3837;
   color: #E7DACB;
