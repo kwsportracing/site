@@ -230,7 +230,7 @@ footer {
   background: #3a3837;
   color: #FFFFFF;
   font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
-  padding: 40px 0 20px 0;
+  padding: 20px;
   margin-top: 40px;
   text-align: center;
 }
@@ -286,6 +286,14 @@ footer .copyright {
 footer .copyright a {
   color: rgba(231, 218, 203, 0.7);
 }
+
+@media only screen and (max-width: 1000px) {
+  .links a {
+    float:left; 
+    clear:left
+  }
+}
+
 
 @media only screen and (max-width: 770px) {
   .example {
@@ -472,7 +480,7 @@ footer .copyright a {
 }
 
 header {
-  position: sticky;
+  position: inherit;
   top: 0;
   background: #3a3837;
   color: #E7DACB;
@@ -560,4 +568,8 @@ section img {
 .dates a {
   font-weight:700;
   color: white;
+}
+
+.ksr img {
+  height:1em;
 }

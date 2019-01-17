@@ -15,3 +15,5 @@ permalink: /media/
 [View the latest photos from our last track day](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
 [![](/img/photos.jpg)](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
+
+{% include image-gallery.html folder="/img/gallery" %}

@@ -9,14 +9,8 @@
 
   <body>
   <header>
-    <!--
-    <div>
-    <a class="logo" href="/">
-      <img class="parcel" src="{{ site.baseurl }}/img/logo.png" height="30"alt="">
-    </a>
-    </div>
-    -->
     <div class="links">
+      <a class="ksr" href="/"><img class="" src="{{ site.baseurl }}/img/logo.png"></a>
       {% for item in site.data.menu.other_links %}
           <a href="{{ item[1] }}">{{ item[0] }}</a></li>
       {% endfor %}
