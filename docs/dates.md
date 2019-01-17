@@ -16,12 +16,6 @@ permalink: /dates/
 | Friday September 20 | Grand Bend Motorplex | $160 |
 | Saturday October 12 | Grand Bend Motorplex | $160 |
 
-### Monday Pre-Registration: $140
-Gate Price: $160
-
-### Friday/Saturday Pre-Registration: $160
-Gate Price: $180
-
 **Notes:** Pre-registration price applies up to 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
 ### Bundle and Save!
