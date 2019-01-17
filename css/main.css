@@ -1,7 +1,7 @@
 html, body {
   margin: 0;
   padding: 0;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
  background:#fefefe;
 }
 
@@ -9,7 +9,7 @@ h1,h2,h3,h4,h5,h6{
 font-weight:400;
 color:#111;
 line-height:1em;
-font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 h4,h5,h6{ font-weight: bold; }
 h1{ font-size:3.2em; }
@@ -29,7 +29,7 @@ a {
   color: #FFFFFF;
   text-align: center;
   padding: 10px 0 50px 0;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .logo {
@@ -106,7 +106,7 @@ a {
   border: 1px solid #FFFFFF;
   border-radius: 0px;
   text-decoration: none;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 20px;
   transition: opacity 200ms;
   text-align: center;
@@ -123,10 +123,10 @@ a {
 }
 
 header .links {
-  position: absolute;
+  /*position: absolute;*/
   top: 0;
   right: 0;
-  padding: 20px;
+  padding-top:20px;
 }
 
 header .links a {
@@ -229,7 +229,7 @@ overflow-x: hidden;
 footer {
   background: #3a3837;
   color: #FFFFFF;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   padding: 40px 0 20px 0;
   margin-top: 40px;
   text-align: center;
@@ -318,7 +318,7 @@ footer .copyright a {
   }
 
   .icon {
-    width: 25px;
+    width: 50px;
     height: auto;
   }
 
@@ -414,7 +414,7 @@ footer .copyright a {
 @media screen and (max-width: 900px) {
   body {
     -webkit-text-size-adjust: none;
-    font-size: 14px;
+    font-size: 1em;
   }
   .sidebar {
     display: block;
@@ -472,15 +472,14 @@ footer .copyright a {
 }
 
 header {
-  position: -webkit-sticky;
-  position: sticky;
+  position: inherit;
   top: 0;
   background: #3a3837;
   color: #E7DACB;
   display: flex;
   justify-content: space-between;
   align-items: center;
-  height: 50px;
+  padding:5px;
   z-index: 500;
 }
 
@@ -501,12 +500,14 @@ header .links a {
   color: #ffffff;
   text-decoration: none;
   padding-right: 20px;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  display:inline-block;
+  padding-bottom:10px;
 }
 
 nav {
   width: 250px;
-  font-family: "Roboto", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
   position: -webkit-sticky;
   position: sticky;
   align-self: flex-start;
@@ -546,4 +547,8 @@ nav h3 {
 
 section img {
   width:100%;
+}
+
+.links .bold {
+  font-weight:700;
 }

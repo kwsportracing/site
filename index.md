@@ -27,7 +27,7 @@ We are a new trackday organizer founded in 2018 as a branch of our street riding
 
 We strive to provide a positive, welcoming atmosphere and a strong sense of community with each track day we host. 
 
-## What Makes Us Different
+### What Makes Us Different
 
 - Welcoming, friendly atmosphere where you can connect and learn from other riders
 - BBQ lunch included
@@ -46,7 +46,7 @@ We strive to provide a positive, welcoming atmosphere and a strong sense of comm
 
 - Available private coaching from Drew for full session
 
-## Day Overview
+### Day Overview
 
 - 8:00pm on the day before: Gates Open, camp overnight if you'd like!
 
@@ -68,7 +68,7 @@ We strive to provide a positive, welcoming atmosphere and a strong sense of comm
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion. Regardless, registration will be capped at 20 bikes/group.
 
-## Step Down Program (Applicable when running 3 groups)
+### Step Down Program (Applicable when running 3 groups)
 
 To maximize lapping times for our members, we are implementing a step down program. This allows you to ride in sessions below the group you registered in.
 
@@ -140,14 +140,18 @@ Double Down ($540): Select any 2 Mondays and and 2 Fridays/Saturday and receive 
 
 If for any reasons you have questions or concerns, feel free to contact us!
 
-[KWSportRacing@gmail.com](mailto:KWSportRacing@gmail.com)
+[kwsportracing@gmail.com](mailto:kwsportracing@gmail.com)
 
-## Videos
+Or join our group on [Facebook](http://www.facebook.com/groups/KWSportRacing/)
+
+## Media
+
+### Videos
 
 <iframe width="100%" height="400px" src="https://www.youtube.com/embed/n1IODp53chI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Photos
+### Photos
 
-[View the latest photos from our last track day](https://www.facebook.com/groups/KWSportRacing/photos/?filter=albums)
+[View the latest photos from our last track day](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
-[![](/img/photos.jpg)](https://www.facebook.com/groups/KWSportRacing/photos/?filter=albums)
+[![](/img/photos.jpg)](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)

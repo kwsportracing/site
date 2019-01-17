@@ -9,12 +9,19 @@
 
   <body>
   <header>
+    <!--
+    <div>
     <a class="logo" href="/">
       <img class="parcel" src="{{ site.baseurl }}/img/logo.png" height="30"alt="">
     </a>
+    </div>
+    -->
     <div class="links">
-      <a href="{{ site.facebook }}">Join us on Facebook</a> 
-      <a href="{{ site.registration }}" target="_blank">Book your next track day</a>
+      {% for item in site.data.menu.other_links %}
+          <a href="{{ item[1] }}">{{ item[0] }}</a></li>
+      {% endfor %}
+      <a href="{{ site.facebook }}" class="bold" target="_blank">Facebook</a> 
+      <a href="{{ site.registration }}" class="bold" target="_blank">Registration</a>
     </div>
   </header>
     <div class="content">
@@ -41,23 +48,16 @@
     <footer>
       <a class="button" href="{{ site.registration }}">Book your next track day!</a>
       <div class="content">
-        <!--
         <nav>
-          <h3>Documentation</h3>
+          <h3>Information</h3>
           <div>
             <ul>
-            {% for item in site.data.menu.documentation_footer_1 %}
-                <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-            {% endfor %}
-            </ul>
-            <ul>
-            {% for item in site.data.menu.documentation_footer_2 %}
+            {% for item in site.data.menu.other_links %}
                 <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
             {% endfor %}
             </ul>
           </div>
         </nav>
-        -->
         <nav>
           <h3>Links</h3>
           <ul>
