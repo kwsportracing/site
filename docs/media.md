@@ -12,7 +12,7 @@ permalink: /media/
 
 ### Photos
 
-[View the latest photos from our last track day](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
+[View the latest photos from our last track day on Facebook](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
 [![](/img/photos.jpg)](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
