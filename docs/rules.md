@@ -33,6 +33,7 @@ If you are in a session below the one you've registered in, you absolutely MUST 
 
 Remember, everyone is here with a common hobby and the desire to improve. Do not be afraid to ask for help & advice. Likewise, please be generous and pass on your skills to other riders. Be social and part of the community!
 
+
 ### Rain Policy
 
 In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day.
