@@ -36,3 +36,5 @@ If for any reasons you have questions or concerns, feel free to contact us!
 [kwsportracing@gmail.com](mailto:kwsportracing@gmail.com)
 
 Or join our group on [Facebook](http://www.facebook.com/groups/KWSportRacing/)
+
+![ksr](/img/ksr.jpg)
