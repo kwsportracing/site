@@ -1,35 +1,7 @@
 $(document).ready(function() {
-  var bgArray = ['ksr.jpg', 'background.jpg'];
+  var bgArray = ['1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg'];
   var bg = bgArray[Math.floor(Math.random() * bgArray.length)];
-  var path = '../img/';
+  var path = '../img/background/';
   var imageUrl = path + bg;
   $('#hero').css('background-image', 'url(' + imageUrl +')');
-});
-
-function scaleToFill() {
-      $('video.video-background').each(function(index, videoTag) {
-               var $video = $(videoTag),
-                     videoRatio = videoTag.videoWidth / videoTag.videoHeight,
-                     tagRatio = $video.width() / $video.height(),
-                     val;
-                
-               if (videoRatio < tagRatio) {
-                            val = tagRatio / videoRatio * 1.02; <!-- size increased by 2% because value is not fine enough and sometimes leaves a couple of white pixels at the edges -->
-                          } else if (tagRatio < videoRatio) {
-                                       val = videoRatio / tagRatio * 1.02;
-                                   }
-               
-               $video.css('transform','scale(' + val  + ',' + val + ')');
-
-            });    
-}
-
-$(function () {
-      scaleToFill();
-      
-      $('.video-background').on('loadeddata', scaleToFill);
-      
-      $(window).resize(function() {
-                scaleToFill();
-            });
 });

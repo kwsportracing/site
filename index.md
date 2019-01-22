@@ -10,6 +10,7 @@ We are a new trackday organizer founded in 2018 as a branch of our street riding
 
 We strive to provide a positive, welcoming atmosphere and a strong sense of community with each track day we host. 
 
+
 ### What Makes Us Different
 
 - Welcoming, friendly atmosphere where you can connect and learn from other riders
@@ -37,8 +38,6 @@ If for any reasons you have questions or concerns, feel free to contact us!
 
 Or join our group on [Facebook](http://www.facebook.com/groups/KWSportRacing/)
 
-![ksr](/img/ksr.jpg)
-
-<video autoplay="autoplay" loop="loop" width="100%">
+<video playsinline autoplay muted loop width="100%">
   <source src="/img/video.webm" type="video/webm">
 </video>
