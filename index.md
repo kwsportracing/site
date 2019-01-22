@@ -38,3 +38,7 @@ If for any reasons you have questions or concerns, feel free to contact us!
 Or join our group on [Facebook](http://www.facebook.com/groups/KWSportRacing/)
 
 ![ksr](/img/ksr.jpg)
+
+<video autoplay="autoplay" loop="loop" width="100%">
+  <source src="/img/video.webm" type="video/webm">
+</video>
