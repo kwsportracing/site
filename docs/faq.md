@@ -8,27 +8,27 @@ permalink: /faq/
 
 ### For those new to track
 
-Q: What do I need to do to my bike?
+**Q: What do I need to do to my bike?**
 
 A: Very little; in most cases it essentially comes down to tape up your lights/mirror and change your coolant to water. For a full list of requirements, you can check out this [link](https://kwsportracing.ca/rules/). 
 
-Q: How about gear?
+**Q: How about gear?**
 
 A: Full leather suit OR 2 piece that zips together. Once again, check out this [link](https://kwsportracing.ca/rules/).
 
-Q: How is the day setup?
+**Q: How is the day setup?**
 
 A: In most cases, we will split into 3 groups: red(advanced), yellow(intermediate) and green (beginner). Each group will go out for 15 minute sessions at a time. While this may sound really short, the reality is you will be exhausted!
 
-Q: How fast is green?
+**Q: How fast is green?**
 
 A: This is impossible to really quantify, but chances are, you’re going to be fine. Passing in green is restricted to straights, you won’t be spooked in a corner by someone trying to squeeze in.
 
-Q: How do I get my bike there?
+**Q: How do I get my bike there?**
 
 A: Trailering your bike is ideal; U-haul rents out trailers for $15/day. However, you might not have a hitch on your car. Riding there is an option that some choose to take. If you crash and your bike is unridable, chances are there’s going to be someone there that can help get your bike home. 
 
-Q: Do I need race slicks, suspension upgrades etc etc?
+**Q: Do I need race slicks, suspension upgrades etc etc?**
 
 A: No, a perfectly stock bike will be more than capable for your first track day. If you insist on some upgrade for your bike, pads and braided brake lines are a great starting point!
 
