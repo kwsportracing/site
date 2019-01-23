@@ -15,7 +15,6 @@
           <a href="{{ item[1] }}">{{ item[0] }}</a></li>
       {% endfor %}
       <a href="{{ site.facebook }}" class="bold" target="_blank">Facebook</a> 
-      <a href="{{ site.registration }}" class="bold" target="_blank">Registration</a>
     </div>
   </header>
     <div class="content">
@@ -27,12 +26,11 @@
             </h2>
         </div>
         <div class="features">
-          <p><a class="button" href="{{ site.facebook }}" target="_blank">Join us on Facebook!</a> <a class="button white" href="{{ site.registration }}" target="_blank">Book your next track day!
+          <p><a class="button" href="{{ site.facebook }}" target="_blank">Join us on Facebook!</a> <a class="button white" href="{{ site.link_to_book}}">Book your next track day!
             </a></p>
         </div>
-          <br>
-      </div>
           <div class="dates"><a href="/dates/">Click here to view our 2019 dates!</a></div>
+      </div>
     </div>
     <main>
       <section>
@@ -40,7 +38,7 @@
       </section>
     </main>
     <footer>
-      <a class="button" href="{{ site.registration }}">Book your next track day!</a>
+      <a class="button" href="{{ site.link_to_book}}">Book your next track day!</a>
       <div class="content">
         <nav>
           <h3>Information</h3>
@@ -56,7 +54,7 @@
           <h3>Links</h3>
           <ul>
           {% for item in site.data.menu.footer %}
-              <li><a href="{{ item[1] }}" target="_blank">{{ item[0] }}</a></li>
+              <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
           {% endfor %}
           </ul>
         </nav>

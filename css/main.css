@@ -28,7 +28,6 @@ a {
   background: #3a3837;
   color: #FFFFFF;
   text-align: center;
-  padding: 10px 0 20px 0;
   font-family: "Open Sans", "Avenir Next", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
@@ -570,6 +569,7 @@ section img {
 .dates a {
   font-weight:700;
   color: white;
+  text-shadow: black 0px 0px 10px;
 }
 
 .ksr img {
