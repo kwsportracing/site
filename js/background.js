@@ -3,7 +3,7 @@ $(document).ready(function() {
   var path = '../img/background/';
 
 
-  secs = 5;
+  secs = 4;
   bgArray.forEach(function(img){
       // caches images, avoiding white flash between background replacements
       new Image().src = path + img; 
