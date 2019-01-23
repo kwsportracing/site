@@ -367,7 +367,7 @@ footer .copyright a {
   background-repeat:   no-repeat;
   background-position: center center;              /* optional, center the image */
   background-blend-mode: darken;
-  transition: 2s;
+  transition: 3s;
 }
 #hero .inner {
   max-width: 900px;
