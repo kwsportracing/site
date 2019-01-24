@@ -4,9 +4,9 @@ title: FAQ
 permalink: /faq/
 ---
 
-## FAQ Section
+## FAQ
 
-### For those new to track
+### For those new to track...
 
 **Q: What do I need to do to my bike?**
 
@@ -46,5 +46,5 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 - Ride your own pace; don’t worry about trying to catch up with someone that passed you.
 - Don’t be a straight line hero just to park it in the corners.
 - Bring a variety of zipties. They can be very useful to patch up fairings.
-- Don’t be afraid to run it off if you feel like you’re not making the corner. DO NOT touch the front brake if you run it off on the grass. Simply ride it out and drag the rear brake, there are large grass run offs.
+- Don’t be afraid to run it off if you feel like you’re not making the corner. DO NOT touch the front brake if you run it off on the grass. Simply ride it out and drag the rear brake, there are large run offs.
 - Prioritize race line over anything else, body position, braking techniques can all come later but to ensure safety for everyone, focus on using the correct racing line. If you are unsure, just ask!
