@@ -359,7 +359,7 @@ footer .copyright a {
 }
 
 #hero {
-  padding: 40px 40px 30px;
+  padding: 10em 0px 10em 0px;
   /*background-color: #fff;*/
   /*background-image:    url("../img/background.jpg");*/
   background-size:     cover;                      /* <------ */
@@ -386,7 +386,7 @@ footer .copyright a {
   width: 55%;
 }
 #hero .hero-logo {
-  width: 15em !important;
+  width: 10em !important;
   height: auto !important;
   float: center;
 }
@@ -435,7 +435,7 @@ footer .copyright a {
     display: block;
   }
   #hero {
-    padding: 40px 40px 30px;
+    padding: 5em 0px 5em 0px;
   }
   #hero .hero-logo {
     float: none;
