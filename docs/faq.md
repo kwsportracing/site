@@ -49,4 +49,4 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 - Don’t be afraid to run it off if you feel like you’re not making the corner. DO NOT touch the front brake if you run it off on the grass. Simply ride it out and drag the rear brake, there are large run offs.
 - Prioritize race line over anything else, body position, braking techniques can all come later but to ensure safety for everyone, focus on using the correct racing line. If you are unsure, just ask!
 
-![](/img/faq.jpg)
+![](/img/FAQ.jpg)
