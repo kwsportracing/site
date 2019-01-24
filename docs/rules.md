@@ -44,4 +44,4 @@ If majority vote against, that day will be cancelled and full refunds will be is
 
 The decision on whether or not the day will run will be announced on our Facebook page 48 hours before the event. Those that have pre-registered will also receive emails to let them know of this update.
 
-![](/img/rules.jpg)
+![](/img/Rules.jpg)
