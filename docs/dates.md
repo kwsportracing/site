@@ -36,12 +36,6 @@ If you decide to add more dates after you've submitted this form, shoot us an em
 
 If you need to cancel a date you've pre-registered for, shoot us an email. You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
 
-## Location
-
-![gb](/img/raceway.jpg)
-
-KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
-
 ### Day Overview
 
 - 8:00pm on the day before: Gates Open, camp overnight if you'd like!
@@ -69,3 +63,11 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion. Reg
 To maximize lapping times for our members, we are implementing a step down program. This allows you to ride in sessions below the group you registered in.
 
 If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day and a public disciplinary berating from Drew.
+
+
+## Location
+
+![gb](/img/raceway.jpg)
+
+KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
+
