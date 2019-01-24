@@ -4,8 +4,6 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
-
 ## 2019 Dates and Pricing
 
 | Date | Location | Pre-Registration Price |
@@ -30,7 +28,7 @@ Double Down ($540): Select any 2 Mondays and and 2 Fridays/Saturday and receive 
 
 ### Select Your Dates
 
-**[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
+## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
 
 If you decide to add more dates after you've submitted this form, shoot us an email and we'll add them on for you!
 
