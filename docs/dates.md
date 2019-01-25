@@ -22,7 +22,7 @@ permalink: /dates/
 
 Season Pass ($900): Select all dates below and receive a discount of 15%
 
-Double Down ($540): Select any 2 Mondays and and 2 Fridays/Saturday and receive a discount of 10%
+Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive a discount of 10%
 
 ## Book Your Track Day
 
