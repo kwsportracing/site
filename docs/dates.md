@@ -28,7 +28,7 @@ Double Down ($540): Select any 2 Mondays and and 2 Fridays/Saturday and receive 
 
 ### Select Your Dates
 
-## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
+## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSd23Gy_U_8hk7e0RjW__snm84XqX3Xdc7nYPkqLPlkG4NyTuQ/viewform?usp=sf_link)**
 
 If you decide to add more dates after you've submitted this form, shoot us an email and we'll add them on for you!
 
