@@ -37,7 +37,7 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 ### The big 3
 **BE PREDICTABLE** - If you’re going to do something out of the ordinary, stick an arm or leg out to let the person behind you know. Don’t commit to a line only to dive in out unexpectedly.
 
-**ASK QUESTIONS** - Everyone at our track days is (theoretically) friendly and there to have a good time. Talk to other rides, see what works for them and take advantage of others’ experience! Vast majority of riders would be more than happy to come out and join you on a lap to show you some lines/techiques
+**ASK QUESTIONS** - Everyone at our track days is (theoretically) friendly and there to have a good time. Talk to other riders, see what works for them and take advantage of others’ experience! Vast majority of riders would be more than happy to come out and join you on a lap to show you some lines/techiques.
 
 **WATCH THE MARSHALLS** - They are scattered around the track and are your only source of information out there. Know the flags and what to do in each case. Forgot what a certain flag color means? See 2.
 
