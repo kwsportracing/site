@@ -12,8 +12,10 @@ permalink: /media/
 
 ### Photos
 
-[View the latest photos from our last track day on Facebook](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
+[To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
-[![](/img/photos.jpg)](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
+**Notes:** Below images are uncompressed in size when clicked. It's advised to view the images on WiFi.
 
-{% include image-gallery.html folder="/img/gallery" %}
+### Grand Bend Track Day August 28th 2018
+
+{% include image-gallery.html folder="/img/gallery/08282018" %}
