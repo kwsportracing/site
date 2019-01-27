@@ -4,9 +4,9 @@ title: FAQ
 permalink: /faq/
 ---
 
-## FAQ Section
+## FAQ
 
-### For those new to track
+### For those new to track...
 
 **Q: What do I need to do to my bike?**
 
@@ -37,7 +37,7 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 ### The big 3
 **BE PREDICTABLE** - If you’re going to do something out of the ordinary, stick an arm or leg out to let the person behind you know. Don’t commit to a line only to dive in out unexpectedly.
 
-**ASK QUESTIONS** - Everyone at our track days is (theoretically) friendly and there to have a good time. Talk to other rides, see what works for them and take advantage of others’ experience! Vast majority of riders would be more than happy to come out and join you on a lap to show you some lines/techiques
+**ASK QUESTIONS** - Everyone at our track days is (theoretically) friendly and there to have a good time. Talk to other riders, see what works for them and take advantage of others’ experience! Vast majority of riders would be more than happy to come out and join you on a lap to show you some lines/techiques.
 
 **WATCH THE MARSHALLS** - They are scattered around the track and are your only source of information out there. Know the flags and what to do in each case. Forgot what a certain flag color means? See 2.
 
@@ -46,5 +46,7 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 - Ride your own pace; don’t worry about trying to catch up with someone that passed you.
 - Don’t be a straight line hero just to park it in the corners.
 - Bring a variety of zipties. They can be very useful to patch up fairings.
-- Don’t be afraid to run it off if you feel like you’re not making the corner. DO NOT touch the front brake if you run it off on the grass. Simply ride it out and drag the rear brake, there are large grass run offs.
+- Don’t be afraid to run it off if you feel like you’re not making the corner. DO NOT touch the front brake if you run it off on the grass. Simply ride it out and drag the rear brake, there are large run offs.
 - Prioritize race line over anything else, body position, braking techniques can all come later but to ensure safety for everyone, focus on using the correct racing line. If you are unsure, just ask!
+
+![](/img/FAQ.jpg)

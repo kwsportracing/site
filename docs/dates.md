@@ -4,8 +4,6 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
-
 ## 2019 Dates and Pricing
 
 | Date | Location | Pre-Registration Price |
@@ -24,23 +22,17 @@ permalink: /dates/
 
 Season Pass ($900): Select all dates below and receive a discount of 15%
 
-Double Down ($540): Select any 2 Mondays and and 2 Fridays/Saturday and receive a discount of 10%
+Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive a discount of 10%
 
 ## Book Your Track Day
 
 ### Select Your Dates
 
-**[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform)**
+## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSd23Gy_U_8hk7e0RjW__snm84XqX3Xdc7nYPkqLPlkG4NyTuQ/viewform?usp=sf_link)**
 
 If you decide to add more dates after you've submitted this form, shoot us an email and we'll add them on for you!
 
 If you need to cancel a date you've pre-registered for, shoot us an email. You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
-
-## Location
-
-![gb](/img/raceway.jpg)
-
-KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
 
 ### Day Overview
 
@@ -69,3 +61,11 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion. Reg
 To maximize lapping times for our members, we are implementing a step down program. This allows you to ride in sessions below the group you registered in.
 
 If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day and a public disciplinary berating from Drew.
+
+
+## Location
+
+![gb](/img/raceway.jpg)
+
+KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
+
