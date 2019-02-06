@@ -19,3 +19,8 @@ permalink: /media/
 ### Grand Bend Track Day August 28th 2018
 
 {% include image-gallery.html folder="/img/gallery/08282018" %}
+
+
+### Contact us
+
+Don't see your picture listed, or want a more high-res picture? Contact us at: kwsportracing@gmail.com
