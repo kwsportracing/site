@@ -30,9 +30,9 @@ Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive 
 
 ## **[Click here to register for your track day!](https://docs.google.com/forms/d/e/1FAIpQLSd23Gy_U_8hk7e0RjW__snm84XqX3Xdc7nYPkqLPlkG4NyTuQ/viewform?usp=sf_link)**
 
-If you decide to add more dates after you've submitted this form, shoot us an email and we'll add them on for you!
+If you decide to add more dates after you've submitted this form, shoot us an email (kwsportracing@gmail.com)  and we'll add them on for you!
 
-If you need to cancel a date you've pre-registered for, shoot us an email. You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
+If you need to cancel a date you've pre-registered for, shoot us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
 
 ### Day Overview
 
