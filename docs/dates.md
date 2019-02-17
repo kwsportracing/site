@@ -24,9 +24,8 @@ Season Pass ($900): Book all our days and receive a discount of 15%
 
 Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive a discount of 10%
 
-## Book Your Track Day
+## **[Book Your Days Here](https://kwsportracing.ca/book/)**
 
-## **[Register Here](https://kwsportracing.ca/book/)**
 
 If you decide to add more dates after you've submitted this form, shoot us an email (kwsportracing@gmail.com)  and we'll add them on for you!
 
