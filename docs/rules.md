@@ -9,7 +9,7 @@ permalink: /rules/
 ### Technical Requirements
 
 - Coolant MUST be replaced with either distilled water or a mix of distilled water & water wetter
-- Lights & mirrors must be taped up
+- Lights & mirrors must be taped up if it is either a glass or hard plastic housing
 - Kickstands must be zip tied IF the return spring does not properly snap stand back.
 - Tires and brake pads must be in good condition
 - Throttle must snap back
