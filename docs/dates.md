@@ -66,3 +66,4 @@ If you are riding in a session below the one you've registered in, you absolutel
 
 KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
 
+The track layout is voted upon a week prior to the track day via an online pool sent by e-mail.
