@@ -396,10 +396,10 @@ footer .copyright a {
   font-size: 3.2em;
 }
 #hero h2 {
-  font-weight: 500;
-  font-size: 2.4em;
+  font-weight: 700;
+  font-size: 2.8em;
   margin: 0 0 10px;
-  text-shadow: black 0px 0px 10px;
+  text-shadow: 1px 1px 1px black
 }
 #hero .button {
   margin: 1em 0;
@@ -576,3 +576,7 @@ section img {
   height:1em;
 }
 
+
+.countdown {
+  text-shadow: 1px 1px 1px black;
+}

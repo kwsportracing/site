@@ -1,2 +1,18 @@
 <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script src="{{ site.baseurl }}/js/background.js"></script>
+
+<!-- Display the countdown timer in an element -->
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("June 3, 2019 00:00:00").getTime();
+
+var now = new Date().getTime();
+var distance = countDownDate - now;
+var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+document.getElementById("countdown").innerHTML = days + " days until our next track day!";
+if (distance < 0) {
+  clearInterval(x);
+  document.getElementById("countdown").innerHTML = "Come join us at the track today!";
+}
+</script>
