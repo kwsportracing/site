@@ -6,15 +6,15 @@ permalink: /dates/
 
 ## 2019 Dates and Pricing
 
-| Date | Location | Pre-Registration Price |
-| -- | -- | -- |
-| Monday June 3 | Grand Bend Motorplex | $140 |
-| Friday July 5 | Grand Bend Motorplex | $160 | 
-| Monday July 15 | Grand Bend Motorplex | $140 |
-| Friday August 9 | Grand Bend Motorplex | $160 |
-| Monday August 26 | Grand Bend Motorplex | $140 | 
-| Friday September 20 | Grand Bend Motorplex | $160 |
-| Saturday October 12 | Grand Bend Motorplex | $160 |
+| Date                | Location             | Pre-Registration Price |
+|---------------------|----------------------|------------------------|
+| Monday June 3       | Grand Bend Motorplex | $140                   |
+| Friday July 5       | Grand Bend Motorplex | $160                   |
+| Monday July 15      | Grand Bend Motorplex | $140                   |
+| Friday August 9     | Grand Bend Motorplex | $160                   |
+| Monday August 26    | Grand Bend Motorplex | $140                   |
+| Friday September 20 | Grand Bend Motorplex | $160                   |
+| Saturday October 12 | Grand Bend Motorplex | $160                   |
 
 **Notes:** Pre-registration price applies up to 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
@@ -26,32 +26,27 @@ Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive 
 
 ## **[Book Your Days Here](https://kwsportracing.ca/book/)**
 
+If you decide to add more dates after you've submitted this form, send us an email (kwsportracing@gmail.com) and we'll add them on for you!
 
-If you decide to add more dates after you've submitted this form, shoot us an email (kwsportracing@gmail.com)  and we'll add them on for you!
+If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
 
-If you need to cancel a date you've pre-registered for, shoot us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
+*Book early! Registration will be capped at 20 riders per group.*
 
 ### Day Overview
 
-- 8:00pm on the day before: Gates Open, camp overnight if you'd like!
+| Time                  | Description                                                                 |
+|-----------------------|-----------------------------------------------------------------------------|
+| 8:00pm the day before | Gates open, camp overnight if you'd like!                                   |
+| 7:30am-8:20am         | [Tech inspection](/rules/)                                                  |
+| 8:30am-8:45am         | Rider's meeting & safety briefing, **REQUIRED TO ATTEND IN ORDER TO RIDE.** |
+| 8:50am                | Sighting lap - Required for all who have not been to GBM before             |
+| 9:00am                | Lapping starts                                                              |
+| 12:00pm               | Lunch                                                                       |
+| 12:45pm               | Group picture                                                               |
+| 1:00pm                | Lapping resumes                                                             |
+| 5:00pm                | Lapping ends                                                                |
 
-- 7:30am-8:20 Tech
-
-- 8:30-8:45 Rider's Meeting
-
-- 8:50 Sighting Lap - Required for all who have not been to GBM before
-
-- 9:00 Lapping Starts
-
-- 12:00 Lunch
-
-- 12:45 Group Picture
-
-- 1:00 Lapping Starts
-
-- 5:00 Lapping Ends
-
-Depending on attendance, we will either run 2 or 3 groups at our discretion. Regardless, registration will be capped at 20 bikes/group.
+Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 ### Step Down Program (Applicable when running 3 groups)
 
@@ -59,8 +54,11 @@ To maximize lapping times for our members, we are implementing a step down progr
 
 If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day and a public disciplinary berating from Drew.
 
-
 ## Location
+
+Grand Bend Motorplex / Grand Bend Raceway [grandbendmotorplex.ca](http://www.grandbendmotorplex.ca/)
+
+Located at **70292 Grand Bend Line, Grand Bend, Ontario**
 
 ![gb](/img/raceway.jpg)
 
