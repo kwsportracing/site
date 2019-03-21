@@ -34,17 +34,17 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 
 ### Day Overview
 
-| Time                  | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| 8:00pm the day before | Gates open, camp overnight if you'd like!                                   |
-| 7:30am-8:20am         | [Tech inspection](/rules/)                                                  |
-| 8:30am-8:45am         | Rider's meeting & safety briefing, **REQUIRED TO ATTEND IN ORDER TO RIDE.** |
-| 8:50am                | Sighting lap - Required for all who have not been to GBM before             |
-| 9:00am                | Lapping starts                                                              |
-| 12:00pm               | Lunch                                                                       |
-| 12:45pm               | Group picture                                                               |
-| 1:00pm                | Lapping resumes                                                             |
-| 5:00pm                | Lapping ends                                                                |
+| Time                  | Description                                                                  |
+|-----------------------|------------------------------------------------------------------------------|
+| 8:00pm the day before | Gates open, camp overnight if you'd like!                                    |
+| 7:30am-8:20am         | [Tech inspection](/rules/)                                                   |
+| 8:30am-8:45am         | Rider's meeting & safety briefing, **REQUIRED ATTENDANCE IN ORDER TO RIDE.** |
+| 8:50am                | Sighting lap - Required for all who have not been to GBM before              |
+| 9:00am                | Lapping starts                                                               |
+| 12:00pm               | Lunch                                                                        |
+| 12:45pm               | Group picture                                                                |
+| 1:00pm                | Lapping resumes                                                              |
+| 5:00pm                | Lapping ends                                                                 |
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
