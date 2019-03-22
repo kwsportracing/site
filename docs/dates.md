@@ -56,7 +56,7 @@ If you are riding in a session below the one you've registered in, you absolutel
 
 ## Location
 
-Grand Bend Motorplex / Grand Bend Raceway [grandbendmotorplex.ca](http://www.grandbendmotorplex.ca/)
+[grandbendmotorplex.ca](http://www.grandbendmotorplex.ca/grand-bend-raceway/)
 
 Located at **70292 Grand Bend Line, Grand Bend, Ontario**
 
@@ -64,4 +64,4 @@ Located at **70292 Grand Bend Line, Grand Bend, Ontario**
 
 KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
 
-The track layout is voted upon a week prior to the track day via an online pool sent by e-mail.
+Layout is decided by poll sent to members that have pre-registered
