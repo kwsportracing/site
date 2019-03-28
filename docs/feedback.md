@@ -31,4 +31,4 @@ Integrity note: All feedback is published exactly as received, the only edits ma
 - More dank whoolies
 - Thanks for an amazing event!!
 
-(/img/gallery/08282018/08282018GrandBendMisc%20(1).jpg
+![](/img/gallery/08282018/08282018GrandBendMisc%20(1).jpg)
