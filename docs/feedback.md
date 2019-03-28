@@ -30,3 +30,5 @@ Integrity note: All feedback is published exactly as received, the only edits ma
 - Great day let me know for the next one,us London guys will be there...thx Blair
 - More dank whoolies
 - Thanks for an amazing event!!
+
+![](/img/galley/08282018/08282018GrandBendMisc%20(1).jpg)
