@@ -32,7 +32,7 @@ We strive to provide a positive, welcoming atmosphere and a strong sense of comm
 
 ## Contact Us
 
-If for any reasons you have questions or concerns, feel free to contact us!
+If you have questions or concerns, feel free to contact us!
 
 [kwsportracing@gmail.com](mailto:kwsportracing@gmail.com)
 
