@@ -9,13 +9,7 @@
 
   <body>
   <header>
-    <div class="links">
-    <a class="ksr" href="/"><img class="" src="{{ site.baseurl }}/img/logo.png"></a>
-      {% for item in site.data.menu.other_links %}
-          <a href="{{ item[1] }}">{{ item[0] }}</a></li>
-      {% endfor %}
-      <a href="{{ site.facebook }}" class="bold" target="_blank">Facebook</a> 
-    </div>
+  {% include header.html %}
   </header>
     <main>
       <section>
