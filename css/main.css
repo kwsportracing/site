@@ -168,13 +168,15 @@ main > section {
 }
 
 .features {
-  display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
   margin-top: 20px;
   max-width:900px;
   margin: 0 auto;
   padding-top:20px;
+
+  display: grid;
+  align-items: center;
+  justify-content: center;
 }
 
 .features h3 {
@@ -424,7 +426,7 @@ footer .copyright a {
   text-shadow: 1px 1px 1px black
 }
 #hero .button {
-  margin: 1em 0;
+  margin: 0.3em 0;
   font-size: 1.2em !important;
   font-weight: 600;
   letter-spacing: 0.1em;
