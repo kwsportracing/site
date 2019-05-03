@@ -153,7 +153,7 @@ header .links .social img {
 main {
   max-width: 1000px;
   margin: 0 auto;
-  color:#444;
+  color:#1a2a3a;
   font-size:1em;
   line-height:1.5em;
 }
@@ -426,11 +426,12 @@ footer .copyright a {
   text-shadow: 1px 1px 1px black
 }
 #hero .button {
-  margin: 0.3em 0;
-  font-size: 1.2em !important;
+  margin: 0.3em auto;
+  font-size: 1em !important;
+  padding: 1em;
+  min-width: 15em;
   font-weight: 600;
   letter-spacing: 0.1em;
-  min-width: 8em;
   text-align: center;
   background: #3a3837;
 }
@@ -603,4 +604,46 @@ section img {
 
 .countdown {
   text-shadow: 1px 1px 1px black;
+}
+
+.track-table {
+  margin:0.3em;
+}
+
+.track-table tr {
+  font-weight:700;
+  background: rgba(100, 100, 100, 0.9);
+}
+
+.track-table td {
+  text-align:center;
+}
+
+.track-table a {
+  color:black;
+  padding: 0.3em;
+  background-color:white;
+  white-space: nowrap;
+}
+
+.track-table a:hover {
+  background-color:blue;
+  color:white;
+}
+
+.track-table img {
+  height:2em;
+  display: inline-block;
+  vertical-align: middle;
+  padding:0.3em;
+}
+
+.track-table .img-text {
+  display:inline;
+  margin:0;
+}
+
+.tiny {
+  font-size:0.7em;
+  margin:0;
 }
