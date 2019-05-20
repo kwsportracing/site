@@ -20,7 +20,7 @@ We strive to provide a positive, welcoming atmosphere and a strong sense of comm
 
 - Worry free cancellation policy 
 
-- YOU pick the layout you want to run for our days. (Voting link will go up a week before the event on our Facebook page)
+- YOU pick the layout you want to run for our days. (Voting link sent to memebrs a week before the event)
 
 - Experienced and veteran SOAR racer Drew Morrisey onsite for riding tips & tricks
 
