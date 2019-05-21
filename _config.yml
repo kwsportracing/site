@@ -1,6 +1,7 @@
+
+
 title: KW Sport Racing
 shorttitle: KSR
-
 project_name: KW Sport Racing
 description: >
   KW Sport Racing motorcycle track days in Ontario. KW Sport Racing Club / KW Sport Riding Club runs track days exclusively at Grand Bend Motorplex. Join us for our 2019 Track Days!
@@ -10,6 +11,7 @@ repository_shorthand: kwsportracing/site
 book_it: View our 2019 Track Days!
 link_to_book: /dates/
 registration: https://docs.google.com/forms/d/e/1FAIpQLSfXxoXyAZj-RoIbvjBm7NQ-eV_sfsFmA6GQai8sVlSCH0KQDw/viewform
+next_track_day: June 3
 
 facebook: https://www.facebook.com/groups/KWSportRacing/
 youtube: https://www.youtube.com/watch?v=04iVIVKCyrg
