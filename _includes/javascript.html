@@ -5,14 +5,24 @@
 
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("June 3, 2019 00:00:00").getTime();
+var countDownDate = new Date("{{ site.next_track_day }}, 2019 08:00:00").getTime();
 
 var now = new Date().getTime();
 var distance = countDownDate - now;
 var days = Math.floor(distance / (1000 * 60 * 60 * 24));
-document.getElementById("countdown").innerHTML = days + " days until our next track day!";
-if (distance < 0) {
-  clearInterval(x);
-  document.getElementById("countdown").innerHTML = "Come join us at the track today!";
+var hours = Math.floor(distance / (1000 * 60 * 60));
+
+console.log(days)
+console.log(hours)
+if (days <= 1 && hours >= 0) {
+  document.getElementById("countdown").innerHTML = hours + " hours until our track day! Click here to reserve your spot! See you at the track."
+  document.getElementById("countdown").href = "{{ site.registration }}"
+} else if (days <= 0 && hours <= 0) {
+  document.getElementById("countdown").innerHTML = "Our track day is happening NOW. Click here to see the schedule."
+} else {
+  document.getElementById("countdown").innerHTML = days+1 + " days until our next track day!";
 }
+
+
+
 </script>
