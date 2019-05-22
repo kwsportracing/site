@@ -15,6 +15,7 @@ permalink: /rules/
 - Throttle must snap back
 - Absolutely no leaks of any kind (Check: Brake fluid, oil, fork seals, coolant)
 - No loose parts on motorcycle
+- No missing bolts, check axle pinchers!
 
 ### Gear Requirements
 
