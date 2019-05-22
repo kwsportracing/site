@@ -126,6 +126,7 @@ header .links {
   top: 0;
   right: 0;
   padding-top:20px;
+  font-weight:600;
 }
 
 header .links a {
@@ -135,8 +136,8 @@ header .links a {
   transition: color 125ms;
 }
 
-header .links a:hover {
-  color: #27ae60;
+header .links a:hover, .button:hover, .countdown:hover, a:hover {
+  color: #0194fe;
 }
 
 header .links .social {
@@ -557,10 +558,6 @@ nav ul li a {
   padding: 0.2em;
   margin-bottom: 3px;
   border-radius: 3px 0 0 3px;
-}
-
-nav ul li a:hover {
-  background: #f8f8f8;
 }
 
 nav ul li a.selected {
