@@ -36,7 +36,7 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 
 | Time                  | Description                                                                  |
 |-----------------------|------------------------------------------------------------------------------|
-| 8:00pm the day before | Gates open, camp overnight if you'd like!                                    |
+| 6:30pm the day before | Gates open, camp overnight if you'd like!                                    |
 | 7:30am-8:20am         | [Tech inspection](/rules/)                                                   |
 | 8:30am-8:45am         | Mandatory Rider's meeting                                                    |
 | 8:50am                | Sighting lap - Required for all who have not been to GBM before              |
