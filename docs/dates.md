@@ -20,8 +20,6 @@ permalink: /dates/
 
 ### Bundle and Save!
 
-Season Pass ($900): Book all our days and receive a discount of 15%
-
 Double Down ($540): Select any 2 Mondays and any 2 Fridays/Saturday and receive a discount of 10%
 
 ## **[Click Here To Book Your Days](https://docs.google.com/forms/d/e/1FAIpQLSd23Gy_U_8hk7e0RjW__snm84XqX3Xdc7nYPkqLPlkG4NyTuQ/viewform?usp=sf_link)**
