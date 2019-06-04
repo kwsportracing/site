@@ -16,7 +16,7 @@ We strive to provide a positive, welcoming atmosphere and a strong sense of comm
 - Welcoming, friendly atmosphere where you can connect and learn from other riders
 - BBQ lunch included
 
-- Maximized lap time with step-down program
+- Mentorship program allowing you to step down to lower sessions to help your friends out
 
 - Worry free cancellation policy 
 
