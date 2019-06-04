@@ -46,11 +46,11 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
-### Step Down Program (Applicable when running 3 groups)
+### Mentorship Program
 
-To maximize lapping times for our members, we are implementing a step down program. This allows you to ride in sessions below the group you registered in.
+To allow newer riders to get the most out of their trackday experience, we are implementing a mentorship program. This allows you to ride in sessions below the group you registered in if you have a friend you are helping out with lines/technique.
 
-If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day and a public disciplinary berating from Drew.
+If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Please confirm with the marshalls prior to entering the track to make sure that there is enough room for you to join in.
 
 ## Location
 
