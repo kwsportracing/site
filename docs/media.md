@@ -6,21 +6,27 @@ permalink: /media/
 
 ## Media
 
-### Videos
+### Contact us
 
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/04iVIVKCyrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Contact our photographer to purchase a professional high-resolution and edited photo: karolinawpelc (at) gmail (dot) com 
 
 ### Photos
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
-**Notes:** Below images are uncompressed in size when clicked. It's advised to view the images on WiFi.
+#### June 3rd 2019
 
-### Grand Bend Track Day August 28th 2018
+Click on the image below to view the photo album!
 
-{% include image-gallery.html folder="/img/gallery/08282018" %}
+[![20190603](/img/gallery/20190603.jpg)](https://www.facebook.com/media/set/?set=oa.2323560264581824)
 
+#### August 28th 2018
 
-### Contact us
+Click on the image below to view the photo album!
 
-Don't see your picture listed, or want a more high-res picture? Contact us at: kwsportracing@gmail.com
+[![20180828](/img/gallery/20180828.jpg)](https://www.facebook.com/media/set/?set=oa.2158698174401368)
+
+### Videos
+
+<iframe width="100%" height="500px" src="https://www.youtube.com/embed/04iVIVKCyrg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
