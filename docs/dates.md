@@ -6,15 +6,15 @@ permalink: /dates/
 
 ## 2019 Dates and Pricing
 
-| Date                | Location             | Pre-Registration Price |
-|---------------------|----------------------|------------------------|
-| Monday June 3       | Grand Bend Motorplex | $140                   |
-| Friday July 5       | Grand Bend Motorplex | $160                   |
-| Monday July 15      | Grand Bend Motorplex | $140                   |
-| Friday August 9     | Grand Bend Motorplex | $160                   |
-| Monday August 26    | Grand Bend Motorplex | $140                   |
-| Friday September 20 | Grand Bend Motorplex | $160                   |
-| Saturday October 12 | Grand Bend Motorplex | $160                   |
+| Date                      | Location             | Pre-Registration Price |
+|---------------------------|----------------------|------------------------|
+| Monday June 3 (Technical) | Grand Bend Motorplex | $140                   |
+| Friday July 5             | Grand Bend Motorplex | $160                   |
+| Monday July 15            | Grand Bend Motorplex | $140                   |
+| Friday August 9           | Grand Bend Motorplex | $160                   |
+| Monday August 26          | Grand Bend Motorplex | $140                   |
+| Friday September 20       | Grand Bend Motorplex | $160                   |
+| Saturday October 12       | Grand Bend Motorplex | $160                   |
 
 **Notes:** Pre-registration price applies up to 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
@@ -34,13 +34,13 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 
 | Time                  | Description                                                                  |
 |-----------------------|------------------------------------------------------------------------------|
-| 6:30pm the day before | Gates open, camp overnight if you'd like!                                    |
+| 6:30pm the day before | Gates open, camp overnight if you'd like! (Gates get locked at 10pm          |
 | 7:30am-8:20am         | [Tech inspection](/rules/)                                                   |
 | 8:30am-8:45am         | Mandatory Rider's meeting                                                    |
 | 8:50am                | Sighting lap - Required for all who have not been to GBM before              |
 | 9:00am                | Lapping starts                                                               |
 | 12:00pm               | Lunch                                                                        |
-| 12:45pm               | Group picture                                                                |
+| 12:45pm               | Group picture by pit in/pit out                                              |
 | 1:00pm                | Lapping resumes                                                              |
 | 5:00pm                | Lapping ends                                                                 |
 
@@ -62,4 +62,4 @@ Located at **70292 Grand Bend Line, Grand Bend, Ontario**
 
 KW Sport Racing is ran exclusively at Grand Bend Motorplex (Grand Bend Raceway). The excellent facility and multiple track layouts make it very welcoming and is a key factor to our decision of renting the track.
 
-Layout is decided by poll sent to members that have pre-registered
+Layout is decided by poll sent to members that have pre-registered. It will then be updated on the site at the top of this page; usually 5-6 days before the event.
