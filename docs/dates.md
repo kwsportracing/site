@@ -6,7 +6,7 @@ permalink: /dates/
 
 ## 2019 Dates and Pricing
 
-| Date                      | Location             | Pre-Registration Price |
+| Date and Layout           | Location             | Pre-Registration Price |
 |---------------------------|----------------------|------------------------|
 | Monday June 3 (Technical) | Grand Bend Motorplex | $140                   |
 | Friday July 5             | Grand Bend Motorplex | $160                   |
