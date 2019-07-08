@@ -35,14 +35,14 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 | Time                  | Description                                                                  |
 |-----------------------|------------------------------------------------------------------------------|
 | 6:30pm the day before | Gates open, camp overnight if you'd like! (Gates get locked at 10pm)         |
-| 7:30am-8:20am         | [Tech inspection](/rules/)                                                   |
-| 8:30am-8:45am         | Mandatory Rider's meeting                                                    |
-| 8:50am                | Sighting lap - Required for all who have not been to GBM before              |
-| 9:00am                | Lapping starts                                                               |
-| 12:00pm               | Lunch                                                                        |
-| 12:45pm               | Group picture by pit in/pit out                                              |
-| 1:00pm                | Lapping resumes                                                              |
-| 5:00pm                | Lapping ends                                                                 |
+| 8:00am                | Gates open                                                                   |
+| 8:30am-9:20am         | [Tech inspection](/rules/)                                                   |
+| 9:30am-9:45am         | Mandatory Rider's meeting                                                    |
+| 9:50am                | Sighting lap - Required for all who have not been to GBM before              |
+| 10:00am               | Lapping starts                                                               |
+| 1:00pm                | Lunch                                                                        |
+| 2:00pm                | Lapping resumes                                                              |
+| 6:00pm                | Lapping ends                                                                 |
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
