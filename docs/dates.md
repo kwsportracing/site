@@ -6,15 +6,15 @@ permalink: /dates/
 
 ## 2019 Dates and Pricing
 
-| Date and Layout           | Location             | Pre-Registration Price |
-|---------------------------|----------------------|------------------------|
-| Monday June 3 (Technical) | Grand Bend Motorplex | $140                   |
-| Friday July 5 (Modified)  | Grand Bend Motorplex | $160                   |
-| Monday July 15            | Grand Bend Motorplex | $140                   |
-| Friday August 9           | Grand Bend Motorplex | $160                   |
-| Monday August 26          | Grand Bend Motorplex | $140                   |
-| Friday September 20       | Grand Bend Motorplex | $160                   |
-| Saturday October 12       | Grand Bend Motorplex | $160                   |
+| Date and Layout                    | Location             | Pre-Registration Price |
+|------------------------------------|----------------------|------------------------|
+| Monday June 3 (Technical)          | Grand Bend Motorplex | $140                   |
+| Friday July 5 (Modified)           | Grand Bend Motorplex | $160                   |
+| Monday July 15 (Reverse Technical) | Grand Bend Motorplex | $140                   |
+| Friday August 9                    | Grand Bend Motorplex | $160                   |
+| Monday August 26                   | Grand Bend Motorplex | $140                   |
+| Friday September 20                | Grand Bend Motorplex | $160                   |
+| Saturday October 12                | Grand Bend Motorplex | $160                   |
 
 **Notes:** Pre-registration price applies up to 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
