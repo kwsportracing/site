@@ -6,10 +6,6 @@ permalink: /media/
 
 ## Media
 
-### Contact us
-
-Contact our photographer to purchase a professional high-resolution and edited photo: karolinawpelc (at) gmail (dot) com 
-
 ### Photos
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
