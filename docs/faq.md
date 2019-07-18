@@ -55,4 +55,4 @@ If for any reasons you have questions or concerns, feel free to contact us!
 
 kwsportracing@gmail.com
 
-![](/img/FAQ.jpg)
+![faq](/img/faq.jpg)

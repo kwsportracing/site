@@ -49,4 +49,4 @@ The decision on whether or not the day will run will be announced on our Faceboo
 ### Photography Note
 
 We may use any pictures we take of you at our events for promotional purposes
-![](/img/Rules.jpg)
+![rules](/img/rules.jpg)
