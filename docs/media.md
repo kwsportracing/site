@@ -11,6 +11,12 @@ permalink: /media/
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
 
+#### July 15th 2019
+
+Click on the image below to view the photo album!
+
+[![20190715](/img/gallery/20190715.jpg)](https://www.facebook.com/media/set/?set=oa.2354586624812521)
+
 #### July 5th 2019
 
 Click on the image below to view the photo album!
