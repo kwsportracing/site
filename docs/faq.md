@@ -32,6 +32,10 @@ A: Trailering your bike is ideal; U-haul rents out trailers for $15/day. However
 
 A: No, a perfectly stock bike will be more than capable for your first track day. If you insist on some upgrade for your bike, pads and braided brake lines are a great starting point!
 
+**Q: What if the forecast is showing a strong change of rain?**
+
+A: In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day. If the majority vote in favor of running the day, the day will be run as normal. If majority vote against, that day will be cancelled and full refunds will be issued to those who have pre-registered
+
 ## Tips & Advice from other riders
 
 ### The big 3

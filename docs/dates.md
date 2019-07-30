@@ -48,6 +48,16 @@ To allow newer riders to get the most out of their trackday experience, we are i
 
 If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Please confirm with the marshalls prior to entering the track to make sure that there is enough room for you to join in.
 
+### Rain Policy
+
+In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day.
+
+If the majority vote in favor of running the day, the day will be run as normal.
+
+If majority vote against, that day will be cancelled and full refunds will be issued to those who have pre-registered
+
+The decision on whether or not the day will run will be announced on our Facebook page 48 hours before the event. Those that have pre-registered will also receive emails to let them know of this update.
+
 ## Location
 
 [grandbendmotorplex.ca](http://www.grandbendmotorplex.ca/grand-bend-raceway/)

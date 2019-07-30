@@ -6,6 +6,8 @@ permalink: /media/
 
 ## Media
 
+**Photography note:** We may use any pictures we take of you at our events for promotional purposes.
+
 ### Photos
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
