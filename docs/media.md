@@ -12,12 +12,17 @@ permalink: /media/
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
+#### August 9th 2019
+
+Click on the image below to view the photo album!
+
+[![20190809](/img/gallery/20190809.jpg)](https://karolinapelcphotography.pixieset.com/ksraugust9/).
 
 #### July 15th 2019
 
 Click on the image below to view the photo album!
 
-[![20190715](/img/gallery/20190715.jpg)](https://www.facebook.com/media/set/?set=oa.2354586624812521)
+[![20190715](/img/gallery/20190715.jpg)](https://karolinapelcphotography.pixieset.com/ksrjuly15/).
 
 #### July 5th 2019
 
@@ -31,11 +36,9 @@ Click on the image below to view the photo album!
 
 [![20190603](/img/gallery/20190603.jpg)](https://www.facebook.com/media/set/?set=oa.2323560264581824)
 
-#### August 28th 2018
+#### 2018
 
-Click on the image below to view the photo album!
-
-[![20180828](/img/gallery/20180828.jpg)](https://www.facebook.com/media/set/?set=oa.2158698174401368)
+* [August 28th 2018 photos](https://www.facebook.com/media/set/?set=oa.2158698174401368)
 
 ### Videos
 
