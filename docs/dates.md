@@ -13,7 +13,7 @@ permalink: /dates/
 | Monday July 15 (Reverse Technical) | Grand Bend Motorplex | $140                   |
 | Friday August 9 (Alien)            | Grand Bend Motorplex | $160                   |
 | Monday August 26 (Reverse Alien)   | Grand Bend Motorplex | $140                   |
-| Friday September 20                | Grand Bend Motorplex | $160                   |
+| Friday September 20 (Technical)    | Grand Bend Motorplex | $160                   |
 | Saturday October 12                | Grand Bend Motorplex | $160                   |
 
 **Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
