@@ -12,6 +12,12 @@ permalink: /media/
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
+#### September 20th 2019
+
+Click on the image below to view the photo album!
+
+[![20190920](/img/gallery/20190920.jpg)](https://karolinapelcphotography.pixieset.com/ksrsept20/).
+
 #### August 26th 2019
 
 Click on the image below to view the photo album!
