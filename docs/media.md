@@ -12,6 +12,12 @@ permalink: /media/
 
 [To view all user-submitted photos, check out our Facebook album(s). Otherwise, click on the images below.](https://www.facebook.com/groups/kwsportracing/photos/?filter=albums)
 
+#### October 19th 2019
+
+Click on the image below to view the photo album!
+
+[![20191019](/img/gallery/20191019.jpg)](https://chrisjohnson.pixieset.com/ksratgrandbend/).
+
 #### September 20th 2019
 
 Click on the image below to view the photo album!
