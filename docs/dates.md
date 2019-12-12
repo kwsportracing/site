@@ -4,17 +4,23 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## 2019 Dates and Pricing
+## 2020 Dates
 
-| Date and Layout                    | Location             | Pre-Registration Price |
-|------------------------------------|----------------------|------------------------|
-| Monday June 3 (Technical)          | Grand Bend Motorplex | $140                   |
-| Friday July 5 (Modified)           | Grand Bend Motorplex | $160                   |
-| Monday July 15 (Reverse Technical) | Grand Bend Motorplex | $140                   |
-| Friday August 9 (Alien)            | Grand Bend Motorplex | $160                   |
-| Monday August 26 (Reverse Alien)   | Grand Bend Motorplex | $140                   |
-| Friday September 20 (Technical)    | Grand Bend Motorplex | $160                   |
-| Saturday October 19 (Alien)        | Grand Bend Motorplex | $160                   |
+### Pre-Registration Price: $150
+
+| Date                | Layout (As voted on) |
+|---------------------|----------------------|
+| Friday May 22       |                      |
+| Monday June 15      |                      |
+| Monday June 22      |                      |
+| Monday July 6       |                      |
+| Monday July 20      |                      |
+| Monday July 27      |                      |
+| Monday August 24    |                      |
+| Monday September 7  |                      |
+| Monday September 28 |                      |
+| Saturday October 10 |                      |
+
 
 **Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
