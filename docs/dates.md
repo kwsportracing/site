@@ -24,7 +24,7 @@ permalink: /dates/
 
 **Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
-## **[Click Here To Book Your Days](https://docs.google.com/forms/d/e/1FAIpQLSc0I22GQed-L92m2NbYDXdA0b3cJ9ZY12qX1fs_7H_RASOfUw/viewform?usp=sf_link)**
+## **[Click Here To Book Your Days](https://docs.google.com/forms/d/e/1FAIpQLScfz7XgnrlxyOeOVlHFwoxRIUfPBdQTzGLMAi_m5fYg02JSqQ/viewform?usp=sf_link)**
 
 If you decide to add more dates after you've submitted this form, send us an email (kwsportracing@gmail.com) and we'll add them on for you!
 
