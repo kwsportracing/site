@@ -6,10 +6,10 @@ description: >
 repository_url: https://github.com/kwsportracing/site
 repository_shorthand: kwsportracing/site
 
-book_it: View our 2019 Track Days!
+book_it: View our 2020 Track Days!
 link_to_book: /dates/
 registration: https://docs.google.com/forms/d/e/1FAIpQLSd23Gy_U_8hk7e0RjW__snm84XqX3Xdc7nYPkqLPlkG4NyTuQ/viewform
-next_track_day: November 10
+next_track_day: May 22
 
 facebook: https://www.facebook.com/groups/KWSportRacing/
 youtube: https://www.youtube.com/watch?v=04iVIVKCyrg
@@ -23,7 +23,7 @@ author_url: https://github.com/kwsportracing/site/graphs/contributors
 url: https://kwsportracing.ca
 
 license: KW Sport Racing is an Apache 2.0 project.
-copyright: Copyright ©2019 KW Sport Racing
+copyright: Copyright ©2020 KW Sport Racing
 
 markdown: kramdown
 
