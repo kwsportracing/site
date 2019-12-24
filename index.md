@@ -6,7 +6,7 @@ title: KW Sport Racing
 
 ## About Us
 
-We are a new trackday organizer founded in 2018 as a branch of our street riding group: KW Sport Riding. Our group is centered around building relationships within the community and continually improving our riding skills. We had a successful pilot day at GBM last season and received tons of positive feedback! For the 2019 season, we are hosting 7 track days at GBM. The facility along with their staff provides some of the best track riding in Southern Ontario!
+We are a new trackday organizer founded in 2018 as a branch of our street riding group: KW Sport Riding. Our group is centered around building relationships within the community and continually improving our riding skills. We had a successful 7 days last season and received tons of positive feedback! For the 2020 season, we are hosting 10 track days at GBM. The facility along with their staff provides some of the best track riding in Southern Ontario!
 
 We strive to provide a positive, welcoming atmosphere and a strong sense of community with each track day we host. 
 
