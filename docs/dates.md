@@ -10,7 +10,7 @@ permalink: /dates/
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
-| Monday May 22       |                      |
+| Friday May 22       |                      |
 | Monday June 15      |                      |
 | Monday June 22      |                      |
 | Monday July 6       |                      |
