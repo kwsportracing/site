@@ -3,6 +3,9 @@ layout: index
 title: KW Sport Racing
 ---
 
+## IMPORTANT NOTE FOR MAY 22 TRACK DAY
+
+We are at capacity, there will be NO gate registrations. We have a wait-list setup for May 22. If you'd like to be added, please send us an email with your name, phone number and desired group and you will be added. If a spot opens up and you are next on the list, you will be contacted.
 
 ## About Us
 
