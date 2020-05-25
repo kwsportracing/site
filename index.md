@@ -3,10 +3,6 @@ layout: index
 title: KW Sport Racing
 ---
 
-## IMPORTANT NOTE FOR MAY 22 TRACK DAY
-
-We are at capacity, there will be NO gate registrations. We have a wait-list setup for May 22. If you'd like to be added, please send us an email with your name, phone number and desired group and you will be added. If a spot opens up and you are next on the list, you will be contacted.
-
 ## About Us
 
 We are a new trackday organizer founded in 2018 as a branch of our street riding group: KW Sport Riding. Our group is centered around building relationships within the community and continually improving our riding skills. We had a successful 7 days last season and received tons of positive feedback! For the 2020 season, we are hosting 10 track days at GBM. The facility along with their staff provides some of the best track riding in Southern Ontario!
