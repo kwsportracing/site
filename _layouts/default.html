@@ -1,51 +1,62 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
 
-  {% include head.html %}
+    <!-- Metadata -->
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="title" content="{{ site.title }}">
 
-  <!-- CSS -->
-  <link href="{{ site.baseurl }}/css/main.css" rel="stylesheet" type="text/css">
-  <link href="{{ site.baseurl }}/css/hljs-github.min.css" rel="stylesheet" type="text/css">
+    {% include meta.html %}
 
+  </head>
   <body>
-  <header>
-  {% include header.html %}
-  </header>
-    <main>
-      <section>
-        {{ content }}
-      </section>
-    </main>
-    <footer>
-      <a class="button" href="{{ site.link_to_book }}">View our 2019 Track Days!</a>
-      <div class="content">
-        <nav>
-          <h3>Information</h3>
-          <div>
-            <ul>
-            {% for item in site.data.menu.other_links %}
-                <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-            {% endfor %}
-            </ul>
-          </div>
-        </nav>
-        <nav>
-          <h3>Links</h3>
-          <ul>
-          {% for item in site.data.menu.footer %}
-              <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
-          {% endfor %}
-          </ul>
-        </nav>
-      </div>
-      <div class="copyright">
-        <img src="{{ site.baseurl }}/img/logo.png" class="redhat-logo"></img>
-        <p>
-        {{ site.copyright }}
-        </p>
-      </div>
-    </footer>
-    <div></div>
-  </body>
+    <div class="wrapper">
 
+      {% include navbar.html %}
+
+      <div id="main" class="main">
+        <div class="first home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="row">
+              <div class="hero-content wow fadeIn">
+                <div class="hero-content-inner">
+                  <div class="style">
+                    {{ content }}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="questions flex-out align-center wow fadeIn">
+              <p>
+              </p>
+            </div>
+          </div>
+
+        </div><!-- Hero End -->
+      </div>
+
+
+      {% include footer.html %}
+
+    </div> <!-- Main -->
+
+
+    <!-- Jquery and Js Plugins -->
+    <script src="/assets/js/jquery-2.1.1.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/jquery.validate.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/menu.js"></script>
+    <script src="/assets/js/custom.js"></script>
+    <script>
+      $('.navbar-nav>li>a').on('click', function(){
+
+        $('.navbar-collapse').collapse('hide');
+
+      });
+    </script>
+  </body>
 </html>

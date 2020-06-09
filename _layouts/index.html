@@ -1,67 +1,218 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+  <head>
 
-  {% include head.html %}
+    <!-- Metadata -->
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="title" content="{{ site.title }}">
 
-  <!-- CSS -->
-  <link href="{{ site.baseurl }}/css/main.css" rel="stylesheet" type="text/css">
-  <link href="{{ site.baseurl }}/css/hljs-github.min.css" rel="stylesheet" type="text/css">
+    {% include meta.html %}
 
+  </head>
   <body>
-  <header>
-  {% include header.html %}
-  </header>
-    <div class="content">
-      <div id="hero">
-        <div class="inner">
-          <img class="hero-logo" src="img/logo.png" style="" title="">
-            <h2>
-              {{ site.project_name }}
-            </h2>
-        </div>
-        <div class="features">
-          <p><a class="button" href="{{ site.facebook }}" target="_blank">Join us on Facebook!</a> <a class="button white" href="{{ site.link_to_book}}">{{ site.book_it }}</a></p>
-        </div>
-        <h4><a id="countdown" class="countdown" href="{{ site.link_to_book }}"> days until our next event!</a></h4>
-        <!--<div class="dates"><a href="/dates/">Click here to view our 2019 dates!</a></div>-->
-      </div>
-    </div>
-    <main>
-      <section>
-        {{ content }}
-      </section>
-    </main>
-    <footer>
-      <a class="button" href="{{ site.link_to_book}}">{{ site.book_it }}</a>
-      <div class="content">
-        <nav>
-          <h3>Information</h3>
-          <div>
-            <ul>
-            {% for item in site.data.menu.other_links %}
-                <li><a href="{{ item[1] | prepend: site.baseurl }}">{{ item[0] }}</a></li>
-            {% endfor %}
-            </ul>
-          </div>
-        </nav>
-        <nav>
-          <h3>Links</h3>
-          <ul>
-          {% for item in site.data.menu.footer %}
-              <li><a href="{{ item[1] }}">{{ item[0] }}</a></li>
-          {% endfor %}
-          </ul>
-        </nav>
-      </div>
-      <div class="copyright">
-        <img src="{{ site.baseurl }}/img/logo.png" class="redhat-logo"></img>
-        <p>
-        {{ site.copyright }}
-        </p>
-      </div>
-    </footer>
-    <div></div>
-  </body>
+    <div class="wrapper">
 
-  {% include javascript.html %}
+      {% include navbar.html %}
+
+      <div id="main" class="main">
+        <div class="first home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="row">
+              <div class="col-md-5">
+                <div class="hero-content wow fadeIn">
+                  <div class="hero-content-inner">
+                    <h4>Exclusively at Grand Bend Motorplex</h4>
+                    <h1>Trackdays at Grand Bend Motorplex</h1>
+                    <p>Were a premium trackday organizer that runs all our days at Grand Bend Motorplex. A welcoming, friendly atmosphere where you can connect and learn from other riders.</p>
+                    <a class="btn-action" href="{{ site.registration }}">Register your 2020 trackday now!</a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-7">
+                <div class="hero-img loop-video">
+                  <video class="embed-responsive drone-video" autoplay loop muted>
+                    <source src="assets/video/turtle.webm" type="video/webm" />
+                  </video>
+                </div>
+              </div>
+            </div>
+
+          <!--
+            <div class="questions partners flex-out wow fadeIn">
+              <p>Check out our partners below</p>
+              <a href="https://www.carbonclass.ca/" target="_blank"><img class="partner-img" src="/assets/images/partners/cc.png"/></a>
+              <a href="https://superbikedepot.com/track-day-tire-preorder" target="_blank"><img class="partner-img" src="/assets/images/partners/superbikedepot.png"/></a>
+            </div>
+          -->
+
+            <div class="questions flex-out align-center wow fadeIn">
+              <p>
+              Any questions? Email us at <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+              </p>
+            </div>
+          </div>
+
+        </div><!-- Hero End -->
+
+        <div id="what" class="what home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="flex-intro align-center wow fadeIn">
+              <h2>About Us</h2>
+              <p>We've been hosting trackdays since 2018</p>
+            </div>
+            <div class="row">
+              <div class="col-md-5">
+                <div class="hero-content wow fadeIn">
+                  <div class="hero-content-inner">
+                    <h4>A little about us</h4>
+                    <p>
+                    We are a trackday organizer founded in 2018 as a branch of our street riding group: KW Sport Riding. 
+                    <br><br>
+                    Our group is centered around building relationships within the community and continually improving our riding skills. We had a successful 7 days last season and received tons of positive feedback! For the 2020 season, we are hosting 10 track days at GBM. The facility along with their staff provides some of the best track riding in Southern Ontario!
+
+                    </p>
+                    <p>
+                    We strive to provide a positive, welcoming atmosphere and a strong sense of community with each track day we host.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div class="col-md-7">
+                <div class="hero-img loop-video">
+                  <video class="embed-responsive drone-video" autoplay loop muted>
+                    <source src="assets/video/pit.webm" type="video/webm" />
+                  </video>
+                </div>
+              </div>
+
+
+            </div>
+
+          </div>
+        </div><!-- Hero End -->
+        <div id="date" class="home home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="flex-intro align-center wow fadeIn">
+              <h2>Dates & Location</h2>
+              <p>Ran at one of the best tracks in Canada.</p>
+            </div>
+            <div class="row">
+
+
+              <div class="col-md-7">
+                <div class="cornering-shot hero-content wow fadeIn">
+                  <h4>Location</h4>
+                  <img class="img-fluid" src="assets/images/overview.jpg"/>
+                  <p>Grand Bend Motorplex
+                  <br>
+                  70292 Grand Bend Line, Grand Bend, ON N0M 1T0
+                  <br>
+                  <a class="track-info" target="_blank" href="http://www.grandbendmotorplex.ca/grand-bend-raceway/">For more information, visit grandbendmotorplex.ca</a>
+                  </p>
+                </div>
+              </div>
+
+              <div class="col-md-5">
+                <div class="cornering-shot hero-content wow fadeIn">
+                  <h4>2020 Dates at Grand Bend Motorplex</h4>
+                  <p>
+                  Friday May 22
+                  <br>
+                  Monday June 15
+                  <br>
+                  Monday June 22
+                  <br>
+                  Monday July 6
+                  <br>
+                  Monday July 20
+                  <br>
+                  Monday July 27
+                  <br>
+                  Monday August 24
+                  <br>
+                  Monday September 7
+                  <br>
+                  Monday September 28
+                  <br>
+                  Saturday October 10
+                  <br>
+                  <br>
+                  <a class="track-info" href="/dates">Click here to book your days!</a>
+                  <br>
+                  </p>
+                </div>
+              </div>
+
+
+            </div>
+
+          </div>
+        </div><!-- Hero End -->
+
+        <div id="what" class="what home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="flex-intro align-center wow fadeIn">
+              <h2>What you get from every KSR trackday</h2>
+              <p>Were proud to give you one of the best trackday experiences ever</p>
+            </div>
+            <div class="row">
+
+              <div class="col-md-6">
+                <div class="hero-img">
+                  <img class="img-fluid" src="assets/images/drew.jpg">
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="hero-content wow fadeIn">
+                  <div class="hero-content-inner">
+                    <h4>What you get</h4>
+                    <p>
+                    • Safe and structured riding in multiple group levels
+                    <br>
+                    • Ran by staff comprised of experienced club-racers (SOAR) and track day riders who are passionate about the sport
+                    <br>
+                    • Paved well-maintained track environment without hazards, limitations or distractions you'll typically find on the street
+                    <br>
+                    • BBQ Lunch
+                    <br>
+                    • Refreshments
+                    <br>
+                    • Professional photographs from an on-site photographer
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+        </div><!-- Hero End -->
+
+      </div>
+
+
+      {% include footer.html %}
+
+    </div> <!-- Main -->
+
+
+    <!-- Jquery and Js Plugins -->
+    <script src="assets/js/jquery-2.1.1.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/jquery.validate.min.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/menu.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script>
+      $('.navbar-nav>li>a').on('click', function(){
+
+        $('.navbar-collapse').collapse('hide');
+
+      });
+    </script>
+  </body>
 </html>

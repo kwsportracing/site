@@ -1,35 +1,17 @@
-title: KW Sport Racing
-shorttitle: KSR
-project_name: KW Sport Racing
-description: >
+title: KSR - KW Sportbike Racing trackdays at Grand Bend Motorplex
+name: KSR - KW Sportbike Racing
+email: kwsportracing@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
   KW Sport Racing motorcycle track days in Ontario. KW Sport Racing Club / KW Sport Riding Club runs track days exclusively at Grand Bend Motorplex. Join us for our 2019 Track Days!
-repository_url: https://github.com/kwsportracing/site
-repository_shorthand: kwsportracing/site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-book_it: View our 2020 Track Days!
-link_to_book: /dates/
-registration: https://docs.google.com/forms/d/e/1FAIpQLScfz7XgnrlxyOeOVlHFwoxRIUfPBdQTzGLMAi_m5fYg02JSqQ/viewform
-next_track_day: June 15 2020
-
-facebook: https://www.facebook.com/groups/KWSportRacing/
-youtube: https://www.youtube.com/watch?v=04iVIVKCyrg
 instagram: https://www.instagram.com/ksrcanada/
+facebook: https://www.facebook.com/groups/KWSportRacing/
 
-home_url: http://kwsportracing.com
+registration: https://docs.google.com/forms/d/e/1FAIpQLScfz7XgnrlxyOeOVlHFwoxRIUfPBdQTzGLMAi_m5fYg02JSqQ/viewform
 
-author_name: Copyright ©2020 KW Sport Racing
-author_url: https://github.com/kwsportracing/site/graphs/contributors
-
-url: https://kwsportracing.ca
-
-license: KW Sport Racing is an Apache 2.0 project.
-copyright: Copyright ©2020 KW Sport Racing
-
-markdown: kramdown
-
-docs_index: /getting-started
-
+# Build settings
+theme: minima
 plugins:
-  - jekyll-redirect-from
-
-base_url: /
+  - jekyll-feed
