@@ -3575,6 +3575,10 @@ backface-visibility: hidden;
   margin-top:50px !important;
 }
 
+.style {
+  text-align:left;
+}
+
 .style h2, h3 {
   font-weight: 400;
   color: #111;
@@ -3614,8 +3618,8 @@ backface-visibility: hidden;
 }
 
 .style li {
-  font-size: 1em;
-  line-height: 1.5em;
+  font-size: 18px;
+  line-height: 1.6em;
 }
 
 .style table {
