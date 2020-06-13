@@ -11,7 +11,7 @@ permalink: /dates/
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
 | Friday May 22       |Technical             |
-| Monday June 15      |                      |
+| Monday June 15      |Technical             |
 | Monday June 22      |                      |
 | Monday July 6       |                      |
 | Monday July 20      |                      |
