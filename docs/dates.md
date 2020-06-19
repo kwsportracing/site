@@ -12,7 +12,7 @@ permalink: /dates/
 |---------------------|----------------------|
 | Friday May 22       |Technical             |
 | Monday June 15      |Technical             |
-| Monday June 22      |                      |
+| Monday June 22      |Reverse Technical     |
 | Monday July 6       |                      |
 | Monday July 20      |                      |
 | Monday July 27      |                      |
