@@ -14,7 +14,7 @@ permalink: /dates/
 | Monday June 15      |Technical             |
 | Monday June 22      |Reverse Technical     |
 | Monday July 6       |                      |
-| Monday July 20      |                      |
+| Monday July 20      |Modified              |
 | Monday July 27      |                      |
 | Monday August 24    |                      |
 | Monday September 7  |                      |
