@@ -9,7 +9,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 instagram: https://www.instagram.com/ksrcanada/
 facebook: https://www.facebook.com/groups/KWSportRacing/
 
-registration: https://docs.google.com/forms/d/e/1FAIpQLScfz7XgnrlxyOeOVlHFwoxRIUfPBdQTzGLMAi_m5fYg02JSqQ/viewform
+registration: /dates
 
 # Build settings
 theme: minima
