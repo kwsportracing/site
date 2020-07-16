@@ -27,7 +27,7 @@ permalink: /rules/
 ### Passing & Other General Rules
 
 - Novice/Green: Passing restricted to straights
-- Intermediate/Yellow: Once bike in front of you has initiated their turn in, passing is restricted until after the apex
+- Intermediate/Yellow: Once bike in front of you has initiated their turn in, inside passing is restricted until after the apex. Passing on outside permitted. 
 - Advanced/Red: Passing permitted anywhere. However this is a track day, not a race. Do not be overly aggressive
 
 If you are in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day.
