@@ -15,11 +15,11 @@ permalink: /dates/
 | Monday June 22      |Reverse Technical     |
 | Monday July 6       |Technical             |
 | Monday July 20      |Modified              |
-| Monday July 27      |                      |
-| Monday August 24    |                      |
+| Monday July 27      |TBD 9PM               |
+| Monday August 24    |Alien                 |
 | Monday September 7  |                      |
 | Monday September 28 |                      |
-| Saturday October 10 |                      |
+| Saturday October 10 |Long Track            |
 
 
 **Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
