@@ -15,7 +15,7 @@ permalink: /dates/
 | Monday June 22      |Reverse Technical     |
 | Monday July 6       |Technical             |
 | Monday July 20      |Modified              |
-| Monday July 27      |TBD 9PM               |
+| Monday July 27      |CANCELLED             |
 | Monday August 24    |Alien                 |
 | Monday September 7  |                      |
 | Monday September 28 |                      |
