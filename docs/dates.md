@@ -16,6 +16,7 @@ permalink: /dates/
 | Monday July 6       |Technical             |
 | Monday July 20      |Modified              |
 | Monday July 27      |CANCELLED             |
+| Monday August 17    |Technical             |
 | Monday August 24    |Alien                 |
 | Monday September 7  |                      |
 | Monday September 28 |                      |
