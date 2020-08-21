@@ -18,8 +18,8 @@ permalink: /dates/
 | Monday July 27      |CANCELLED             |
 | Monday August 17    |Technical             |
 | Monday August 24    |Alien                 |
-| Monday September 7  |                      |
-| Monday September 28 |                      |
+| Monday September 14 |                      |
+| Friday September 25 |                      |
 | Saturday October 10 |Long Track            |
 
 
