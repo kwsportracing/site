@@ -4,27 +4,38 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## 2020 Dates
+## 2021 Dates
 
-### Pre-Registration Price: $150
+### Pre-Registration Price: To be announced soon. Bundle packages also to be announced soon!
+
+### Sign-Up link to go live soon!
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
-| Friday May 22       |Technical             |
-| Monday June 15      |Technical             |
-| Monday June 22      |Reverse Technical     |
-| Monday July 6       |Technical             |
-| Monday July 20      |Modified              |
-| Monday August 17    |Technical             |
-| Monday August 24    |Alien                 |
-| Monday September 14 |Technical             |
-| Friday September 25 |Reverse Modified      |
-| Tuesday October 13  |Long Track            |
+| Saturday May 8      |                      |
+| Monday May 17       |                      |
+| Monday May 31       |                      |
+| Monday June 7       |                      |
+| Monday June 14      |                      |
+| Monday June 21      |                      |
+| Monday July 5       |                      |
+| Monday July 19      |                      |
+| Monday July 26      |                      |
+| Monday August 9     |                      |
+| Monday August 16    |                      |
+| Monday August 23    |                      |
+| Monday August 30    |                      |
+| Monday September 6  |                      |
+| Monday September 13 |                      |
+| Friday September 24 |                      |
+| Monday September 27 |                      |
+| Monday October 4    |                      |
+| Sunday October 10   |                      |
 
 
-**Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. All pricing is tax inclusive and includes a BBQ lunch.
 
-## **[Click Here To Book Your Days](https://docs.google.com/forms/d/e/1FAIpQLScfz7XgnrlxyOeOVlHFwoxRIUfPBdQTzGLMAi_m5fYg02JSqQ/viewform?usp=sf_link)**
+**Notes:** Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20. 
+
 
 If you decide to add more dates after you've submitted this form, send us an email (kwsportracing@gmail.com) and we'll add them on for you!
 
@@ -47,12 +58,6 @@ If you need to cancel a date you've pre-registered for, send us an email (kwspor
 | 6:00pm                | Lapping ends                                                                 |
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
-
-### Mentorship Program
-
-To allow newer riders to get the most out of their trackday experience, we are implementing a mentorship program. This allows you to ride in sessions below the group you registered in if you have a friend you are helping out with lines/technique.
-
-If you are riding in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Please confirm with the marshalls prior to entering the track to make sure that there is enough room for you to join in.
 
 ### Rain Policy
 
