@@ -25,7 +25,6 @@ permalink: /dates/
 | Monday August 16    |                      |
 | Monday August 23    |                      |
 | Monday August 30    |                      |
-| Monday September 6  |                      |
 | Monday September 13 |                      |
 | Friday September 24 |                      |
 | Monday September 27 |                      |
