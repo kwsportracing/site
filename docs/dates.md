@@ -6,9 +6,11 @@ permalink: /dates/
 
 ## 2021 Dates
 
-### Pre-Registration Price: To be announced soon. Bundle packages also to be announced soon!
+### Pre-Registration Price: $150
 
-### Sign-Up link to go live soon!
+### Pre-Season Package Deals: [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSepRLi75DmKGbWiJGqSudIM-pKSDM9meTR1KXY_zH9UJjixZQ/viewform?usp=sf_link)
+
+### Single-day sign-up begins after April 16 2021
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
