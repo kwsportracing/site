@@ -10,6 +10,11 @@ permalink: /dates/
 
 ### Pre-Season Package Deals: [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSepRLi75DmKGbWiJGqSudIM-pKSDM9meTR1KXY_zH9UJjixZQ/viewform?usp=sf_link)
 
+### KSR Trackday Addict 3-day pass ($400)
+
+### KSR Trackday Junkie 5-day pass ($635)
+
+### KSR 2021 Member 10-day ($1200)
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
