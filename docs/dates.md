@@ -6,9 +6,9 @@ permalink: /dates/
 
 ## 2021 Dates
 
-### Pre-Registration Price: $150 (Single-day sign-up begins after April 16 2021)
+## Pre-Registration Price: $150 (Single-day sign-up begins after April 16 2021)
 
-### Pre-Season Package Deals: [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSepRLi75DmKGbWiJGqSudIM-pKSDM9meTR1KXY_zH9UJjixZQ/viewform?usp=sf_link)
+## Pre-Season Package Deals: [Sign Up Here!](https://docs.google.com/forms/d/e/1FAIpQLSepRLi75DmKGbWiJGqSudIM-pKSDM9meTR1KXY_zH9UJjixZQ/viewform?usp=sf_link)
 
 ### KSR Trackday Addict 3-day pass ($400)
 
