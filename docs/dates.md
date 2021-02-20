@@ -9,18 +9,18 @@ permalink: /dates/
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
 | Saturday May 8      |                      |
-| Monday May 17       |                      |
+| Monday May 17       |Technical             |
 | Monday May 31       |                      |
-| Monday June 7       |                      |
-| Monday June 14      |                      |
+| Monday June 7       |Technical             |
+| Monday June 14      |Reverse Alien         |
 | Monday June 21      |                      |
 | Monday July 5       |                      |
-| Monday July 19      |                      |
+| Monday July 19      |Modified              |
 | Monday July 26      |                      |
 | Monday August 9     |                      |
 | Monday August 16    |                      |
-| Monday August 23    |                      |
-| Monday August 30    |                      |
+| Monday August 23    |Alien                 |
+| Monday August 30    |Long Track            |
 | Monday September 13 |                      |
 | Friday September 24 |                      |
 | Monday September 27 |                      |
