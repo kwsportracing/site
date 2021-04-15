@@ -10,7 +10,8 @@ We've confirmed your payment.
 
 You should receive a receipt shortly via **EMAIL**.
 
-See you at the track!
+Check out our [schedule](https://kwsportracing.ca/dates) and [rules](https://kwsportracing.ca/rules/) before arriving.
 
+See you at the track!
 
 ![faq](/img/faq.jpg)
