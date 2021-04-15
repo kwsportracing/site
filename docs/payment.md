@@ -35,41 +35,41 @@ Paying for the incorrect date will result in a credit rather than a refund.
 
 | Day      | Date         | Payment Link                                                                                                                                                                                               |
 |----------|--------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Saturday | May 8        | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for May 8</button> |
+| Saturday | MAY 8        | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR MAY 8</button> |
 | | |
-| Monday   | May 17       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for May 17</button> |
+| Monday   | MAY 17       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR MAY 17</button> |
 | | |
-| Monday   | May 31       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for May 31</button> |
+| Monday   | MAY 31       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR MAY 31</button> |
 | | |
-| Monday   | June 7       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for June 7</button> |
+| Monday   | JUNE 7       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JUNE 7</button> |
 | | |
-| Monday   | June 14      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for June 14</button> |
+| Monday   | JUNE 14      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JUNE 14</button> |
 | | |
-| Monday   | June 21      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for June 21</button> |
+| Monday   | JUNE 21      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JUNE 21</button> |
 | | |
-| Monday   | July 5       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for July 5</button> |
+| Monday   | JULY 5       | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JULY 5</button> |
 | | |
-| Monday   | July 19      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for July 19</button> |
+| Monday   | JULY 19      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JULY 19</button> |
 | | |
-| Monday   | July 26      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for July 26</button> |
+| Monday   | JULY 26      | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR JULY 26</button> |
 | | |
-| Monday   | August 9     | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for August 9</button> |
+| Monday   | AUGUST 9     | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR AUGUST 9</button> |
 | | |
-| Monday   | August 16    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for August 16</button> |
+| Monday   | AUGUST 16    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR AUGUST 16</button> |
 | | |
-| Monday   | August 23    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for August 23</button> |
+| Monday   | AUGUST 23    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR AUGUST 23</button> |
 | | |
-| Monday   | August 30    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for August 30</button> |
+| Monday   | AUGUST 30    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR AUGUST 30</button> |
 | | |
-| Monday   | September 13 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for September 13</button> |
+| Monday   | SEPTEMBER 13 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR SEPTEMBER 13</button> |
 | | |
-| Friday   | September 24 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for September 24</button> |
+| Friday   | SEPTEMBER 24 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR SEPTEMBER 24</button> |
 | | |
-| Monday   | September 27 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for September 27</button> |
+| Monday   | SEPTEMBER 27 | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR SEPTEMBER 27</button> |
 | | |
-| Monday   | October 4    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for October 4</button> |
+| Monday   | OCTOBER 4    | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR OCTOBER 4</button> |
 | | |
-| Sunday   | October 10   | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">Pay for October 10</button> |
+| Sunday   | OCTOBER 10   | <button style="background-color:#6772E5;color:#FFF;padding:8px 12px;border:0;border-radius:4px;font-size:1em" id="checkout-button-sku_JJ8ACbEqBucebv" role="link" type="button">PAY FOR OCTOBER 10</button> |
 | | |
 
 
