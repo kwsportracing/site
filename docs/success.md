@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Successful Payment
-permalink: /success/
 ---
 
 # Success!

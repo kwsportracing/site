@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Payment
-permalink: /payment/
 ---
 
 <!-- IMPORTANT! Keep here -->
