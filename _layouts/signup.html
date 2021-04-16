@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+
+    <!-- Metadata -->
+    <meta charset="utf-8">
+    <title>{{ site.title }}</title>
+    <meta name="title" content="{{ site.title }}">
+
+    {% include meta.html %}
+
+  </head>
+  <body>
+    <div class="wrapper">
+
+      {% include navbar.html %}
+
+      <div id="main" class="main">
+        <div class="first home-3"><!-- Hero Section-->
+          <div class="container">
+            <div class="row">
+              <div class="hero-content wow fadeIn">
+                <div class="hero-content-inner">
+                  <div class="style">
+
+
+                    <!-- THIS SECTION STARTS THE FORM! -->
+                    {% include signupform.html %}
+                    <!-- END OF FORM -->
+
+                    {{ content }}
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="questions flex-out align-center wow fadeIn">
+              <p>
+              </p>
+            </div>
+          </div>
+
+        </div><!-- Hero End -->
+      </div>
+
+
+      {% include footer.html %}
+
+    </div> <!-- Main -->
+
+
+    <!-- Jquery and Js Plugins -->
+    <script src="/assets/js/jquery-2.1.1.js"></script>
+    <script src="/assets/js/popper.min.js"></script>
+    <script src="/assets/js/jquery.validate.min.js"></script>
+    <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/plugins.js"></script>
+    <script src="/assets/js/menu.js"></script>
+    <script src="/assets/js/custom.js"></script>
+    <script>
+      $('.navbar-nav>li>a').on('click', function(){
+
+        $('.navbar-collapse').collapse('hide');
+
+      });
+    </script>
+
+    <!-- SCRIPT FOR CHOOSING THE GROUP! -->
+    <script>
+        $('#date').on('change', function () {
+
+        {% for item in site.data.dates %}
+        if (this.value == '{{ item.date }}') {
+
+          {% if item.green > 0 %}
+            var green = '<option value="green"> Green ({{ item.green }} spots available)</option>';
+          {% else %}
+            var green = '<option value="green" disabled> Green (0 spots available)</option>';
+          {% endif %}
+
+          {% if item.yellow > 0 %}
+            var yellow = '<option value="yellow"> Yellow ({{ item.yellow }} spots available)</option>';
+          {% else %}
+            var yellow = '<option value="yellow" disabled> Yellow (0 spots available)</option>';
+          {% endif %}
+
+          {% if item.red > 0 %}
+            var red = '<option value="red"> Red ({{ item.red }} spots available)</option>';
+          {% else %}
+            var red = '<option value="red" disabled> Red (0 spots available)</option>';
+          {% endif %}
+
+            $("#group").html(green+yellow+red);
+        }
+        {% endfor %}
+
+    });
+    </script>
+  </body>
+</html>

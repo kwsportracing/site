@@ -1,0 +1,141 @@
+<!-- THIS SECTION STARTS THE FORM! -->
+
+<div id="pricing" class="reserving pricing-section text-center">
+  <div class="container">
+
+    <h1> Sign up form </h1>
+    <form action="https://formspree.io/f/mvodgzdp" method="POST">
+
+      <div class="pricing-intro ack row signup-spacing">
+        <div class="pricing-intro">
+          <h1>1. Choose a date</h1>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <select id="date" name="date" class="form-control form-control-lg" required>
+          <option value="" selected disabled>Please select a date</option>
+          {% for item in site.data.dates %}
+            <option value="{{ item.date }}" >{{ item.date }} </option>
+          {% endfor %}
+        </select>
+      </div>
+
+      <div class="pricing-intro ack row signup-spacing">
+        <div class="pricing-intro">
+          <h1>2. Choose your riding group</h1>
+        </div>
+      </div>
+
+      <div class="form-row">
+        <select id="group" name="group" class="form-control form-control-lg" required>
+          <option value="" selected disabled>Please select a date first</option>
+        </select>
+      </div>
+
+      <div class="pricing-intro ack row signup-spacing">
+        <h1>3. Available services</h1>
+
+        <div class="form-row">
+          <p class="ack-txt">
+           Get the most out of your bike and see the difference a properly setup ride makes!
+          </p>
+        </div>
+        <br>
+        <div class="form-row">
+          <label class="btn btn-dark" for="suspension">
+            <input value="false" name="acknowledged" class="" type="checkbox" id="suspension">
+            Suspension Setup ($20)
+          </label>
+        </div>
+        <br>
+        <div class="form-row">
+          <p class="ack-txt">
+          Coaching sessions will be captured on video and shared with you
+          </p>
+        </div>
+        <br>
+        <div class="form-row">
+          <label class="btn btn-dark" for="coaching">
+            <input value="false" name="acknowledged" class="" type="checkbox" id="coaching">
+            Private Coaching ($20)
+          </label>
+        </div>
+
+
+        <br>
+      </div>
+
+
+      <div class="pricing-intro ack row signup-spacing">
+        <div class="pricing-intro">
+          <h1>4. Fill out your information</h1>
+        </div>
+      </div>
+
+      <div class="fillout">
+
+        <div class="form-row">
+          <div class="col-md-12 mb-3">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="email" name="_replyto" placeholder="Your email" required>
+          </div>
+        </div>
+
+        <div class="form-row">
+          <div class="col-md-6 mb-3">
+            <label for="validationDefault01">First name</label>
+            <input name="first" type="text" class="form-control" id="validationDefault01" placeholder="First name" required>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="validationDefault02">Last name</label>
+            <input name="last" type="text" class="form-control" id="validationDefault02" placeholder="Last name" required>
+          </div>
+        </div>
+        <div class="form-row">
+          <div class="col-md-12 mb-3">
+            <label for="phone">Phone number</label>
+            <input type="text" class="form-control" id="phone" name="phone" placeholder="123-456-7890" required>
+          </div>
+        </div>
+      </div>
+
+      <div class="pricing-intro ack row signup-spacing">
+        <h1>5. Payment information</h1>
+        <div class="form-row">
+          <p class="ack-txt">
+          • Single Day Pre-Registration: $150 (Single-day sign-up begins after April 16 2021)
+          <br>
+          • <b>Notes:</b> Pre-registration price applies when registering AND sending payment at least 1 week prior to the event. Any registration after that has passed will add on $20.
+          <br>
+          • Filling out the form does not reserve your spot until a payment has been made.
+          <br>
+          • After submission, a link to payment information will be emailed to you.
+          </p>
+        </div>
+        <br>
+
+        <div class="form-row">
+          <label class="btn btn-dark" for="defaultCheck1">
+            <input value="true" name="acknowledged" class="" type="checkbox" id="defaultCheck1" required>
+            I've read the above
+          </label>
+        </div>
+        <br>
+        <div class="form-row">
+          <input class="btn btn-primary" type="submit" value="Send">
+        </div>
+        <br>
+        <br>
+        <br>
+
+      </div>
+
+  </div>
+
+  <input type="hidden" name="_next" value="https://ksr.rent/"/>
+    </form>
+
+    <!-- end -->
+</div>
+
