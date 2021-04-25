@@ -45,6 +45,7 @@ permalink: /dates/
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
+
 ## Registrations
 Pre-Registration pricing is $150, trackside registration is $170(cash only).
 You can pre-register at the link below:
@@ -57,9 +58,11 @@ _C O M I N G    S O O N !_
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
 
+
 ### Cancellation Policy
 
 If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
+
 
 ### Rain Policy
 
@@ -72,6 +75,7 @@ If majority vote against, that day will be cancelled and full refunds will be is
 The decision on whether or not the day will run will be announced on our Facebook page 48 hours before the event. Those that have pre-registered will also receive emails to let them know of this update.
 
 *Book early! Registration is capped.*
+
 
 ## Location
 
