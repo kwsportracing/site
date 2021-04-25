@@ -27,21 +27,7 @@ permalink: /dates/
 | Monday October 4    |                      |
 | Sunday October 10   |                      |
  
-### Cancellation Policy
 
-If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
-
-### Rain Policy
-
-In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day.
-
-If the majority vote in favor of running the day, the day will be run as normal.
-
-If majority vote against, that day will be cancelled and full refunds will be issued to those who have pre-registered
-
-The decision on whether or not the day will run will be announced on our Facebook page 48 hours before the event. Those that have pre-registered will also receive emails to let them know of this update.
-
-*Book early! Registration is capped.*
 
 ### Day Overview
 
@@ -65,7 +51,27 @@ You can pre-register at the link below:
 
 _C O M I N G    S O O N !_
 
-**Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.** 
+AFTER you have completed the form above, IF you are paying with VISA, use the following payment link:
+
+_C O M I N G    S O O N !_
+
+**Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
+
+### Cancellation Policy
+
+If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
+
+### Rain Policy
+
+In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day.
+
+If the majority vote in favor of running the day, the day will be run as normal.
+
+If majority vote against, that day will be cancelled and full refunds will be issued to those who have pre-registered
+
+The decision on whether or not the day will run will be announced on our Facebook page 48 hours before the event. Those that have pre-registered will also receive emails to let them know of this update.
+
+*Book early! Registration is capped.*
 
 ## Location
 
