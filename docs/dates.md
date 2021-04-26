@@ -8,9 +8,7 @@ permalink: /dates/
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
-| Saturday May 8      |                      |
-| Monday May 17       |Technical             |
-| Monday May 31       |                      |
+| Monday May 31       |Technical             |
 | Monday June 7       |Technical             |
 | Monday June 14      |Reverse Alien         |
 | Monday June 21      |                      |
