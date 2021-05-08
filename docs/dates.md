@@ -52,11 +52,11 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 Pre-Registration pricing is $150, trackside registration is $170(cash only).
 You can pre-register at the link below:
 
-COMING MAY 10
+COMING MAY 19 (Or sooner depending on when lockdown plans are officially announced by the government)
 
 AFTER you have completed the form above, IF you are paying with VISA, use the following payment link:
 
-COMING MAY 10
+COMING MAY 19 (Or sooner depending on when lockdown plans are officially announced by the government)
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
 
