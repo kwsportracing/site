@@ -8,7 +8,7 @@ permalink: /dates/
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
-| Monday June 14      |                      |
+| Monday June 14      |Reverse Alien         |
 | Monday June 21      |                      |
 | Monday July 5       |                      |
 | Monday July 19      |Modified              |
