@@ -52,9 +52,9 @@ You can pre-register at the link below:
 
 [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLScdUyBLHJXUJ3dOnGgL6Ry43QloMiEpHzTevDPDu1f5sZiz9A/viewform?usp=sf_link)
 
-AFTER you have completed the form above, IF you are paying with VISA, use the following payment link:
+AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment link:
 
-COMING SOON
+[Credit Card Payment Link](https://buy.stripe.com/bIY28979WdaAcLK6or)
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
 
