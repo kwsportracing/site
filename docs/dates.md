@@ -57,13 +57,14 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 [Credit Card Payment Link](https://buy.stripe.com/bIY28979WdaAcLK6or)
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
+
 **IF WE DO NOT RECEIVE YOUR PAYMENT 1 WEEK PRIOR TO EVENT, YOUR RESERVATION IS AUTOMATICALLY CANCELLED**
 
 
 
 ### Cancellation Policy
 
-If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 7 days prior to the event for a full refund. After this, there will be no refunds provided.
+If you need to cancel a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 1 week prior to the event for a full refund. After this, there will be no refunds provided.
 
 
 
