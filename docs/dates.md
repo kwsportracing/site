@@ -47,7 +47,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 
 ## Registrations
-Pre-Registration pricing is $150, trackside registration is $170(cash only).
+Pre-Registration pricing is $150, trackside registration is $170(cash only and space permitting).
 You can pre-register at the link below:
 
 [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLScdUyBLHJXUJ3dOnGgL6Ry43QloMiEpHzTevDPDu1f5sZiz9A/viewform?usp=sf_link)
@@ -57,7 +57,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 [Credit Card Payment Link](https://buy.stripe.com/bIY28979WdaAcLK6or)
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
-
+**IF WE DO NOT RECEIVE YOUR PAYMENT 1 WEEK PRIOR TO EVENT, YOUR RESERVATION IS AUTOMATICALLY CANCELLED**
 
 
 
