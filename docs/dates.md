@@ -10,19 +10,19 @@ permalink: /dates/
 |---------------------|----------------------|
 | Sunday June 13      |Reverse Alien         |
 | Monday June 14      |Reverse Alien         |
-| Monday June 21      |                      |
-| Monday July 5       |                      |
+| Monday June 21      |TBD                   |
+| Monday July 5       |Technical             |
 | Monday July 19      |Modified              |
-| Monday July 26      |                      |
-| Monday August 9     |                      |
-| Monday August 16    |                      |
+| Monday July 26      |TBD                   |
+| Monday August 9     |TBD                   |
+| Monday August 16    |TBD                   |
 | Monday August 23    |Alien                 |
 | Monday August 30    |Long Track            |
-| Monday September 13 |                      |
-| Friday September 24 |                      |
-| Monday September 27 |                      |
-| Monday October 4    |                      |
-| Sunday October 10   |                      |
+| Monday September 13 |TBD                   |
+| Friday September 24 |TBD                   |
+| Monday September 27 |TBD                   |
+| Monday October 4    |TBD                   |
+| Sunday October 10   |TBD                   |
  
 
 
