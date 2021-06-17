@@ -10,7 +10,7 @@ permalink: /dates/
 |---------------------|----------------------|
 | Sunday June 13      |Reverse Alien         |
 | Monday June 14      |Reverse Alien         |
-| Monday June 21      |TBD                   |
+| Monday June 21      |Technical             |
 | Monday July 5       |Technical             |
 | Monday July 19      |Modified              |
 | Monday July 26      |TBD                   |
