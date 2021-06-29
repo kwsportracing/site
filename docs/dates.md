@@ -12,6 +12,7 @@ permalink: /dates/
 | Monday June 14      |Reverse Alien         |
 | Monday June 21      |CANCELLED             |
 | Monday July 5       |Technical             |
+| Monday July 12      |TBD                   |
 | Monday July 19      |Modified              |
 | Monday July 26      |TBD                   |
 | Monday August 9     |TBD                   |
