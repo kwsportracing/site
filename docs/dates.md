@@ -16,7 +16,7 @@ permalink: /dates/
 | Monday July 19      |Modified              |
 | Monday July 26      |Reverse Technical     |
 | Monday August 9     |Technical             |
-| Monday August 16    |TBD                   |
+| Monday August 16    |Technical             |
 | Monday August 23    |Alien                 |
 | Monday August 30    |Long Track            |
 | Monday September 13 |TBD                   |
