@@ -19,9 +19,9 @@ permalink: /dates/
 | Monday August 16    |Technical             |
 | Monday August 23    |Alien                 |
 | Monday August 30    |Long Track            |
-| Monday September 13 |TBD                   |
-| Friday September 24 |TBD                   |
-| Monday September 27 |TBD                   |
+| Monday September 13 |Modified              |
+| Friday September 24 |Technical             |
+| Monday September 27 |Technical             |
 | Monday October 4    |TBD                   |
 | Sunday October 10   |TBD                   |
  
