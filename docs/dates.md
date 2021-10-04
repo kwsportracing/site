@@ -22,7 +22,7 @@ permalink: /dates/
 | Monday September 13 |Modified              |
 | Friday September 24 |Technical             |
 | Monday September 27 |Technical             |
-| Monday October 4    |TBD                   |
+| Monday October 4    |CANCELLED             |
 | Sunday October 10   |TBD                   |
  
 
