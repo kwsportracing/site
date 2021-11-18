@@ -4,27 +4,29 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## 2021 Dates
+## 2022 Dates
 
 | Date                | Layout (As voted on) |
 |---------------------|----------------------|
-| Sunday June 13      |Reverse Alien         |
-| Monday June 14      |Reverse Alien         |
-| Monday June 21      |CANCELLED             |
-| Monday July 5       |Technical             |
-| Monday July 12      |Modified              |
-| Monday July 19      |Modified              |
-| Monday July 26      |Reverse Technical     |
-| Monday August 9     |Technical             |
-| Monday August 16    |Technical             |
-| Monday August 23    |Alien                 |
-| Monday August 30    |Long Track            |
-| Monday September 13 |Modified              |
-| Friday September 24 |Technical             |
-| Monday September 27 |Technical             |
-| Monday October 4    |CANCELLED             |
-| Sunday October 10   |Technical             |
- 
+| Saturday May 7      |                      |
+| Monday May 16       |                      |
+| Monday May 30       |                      |
+| Monday June 6       |                      |
+| Monday June 13      |                      |
+| Monday June 20      |                      |
+| Monday June 27      |                      |
+| Monday July 4       |                      |
+| Monday July 18      |                      |
+| Monday July 25      |                      |
+| Monday August 8     |                      |
+| Monday August 15    |                      |
+| Monday August 22    |                      |
+| Monday August 29    |                      |
+| Monday September 12 |                      |
+| Monday September 19 |                      |
+| Monday October 3    |                      |
+| Saturday October 8  |                      |
+| Sunday October 9    |                      |
 
 
 
@@ -49,7 +51,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 
 ## Registrations
-Pre-Registration pricing is $150, trackside registration is $170(cash only and space permitting).
+Pre-Registration pricing is $TBD, trackside registration is $TBD(cash only and space permitting).
 You can pre-register at the link below:
 
 [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLScdUyBLHJXUJ3dOnGgL6Ry43QloMiEpHzTevDPDu1f5sZiz9A/viewform?usp=sf_link)
@@ -67,7 +69,6 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 ### Cancellation/Transfer Policy
 
 If you need to cancel/transfer a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 1 week prior to the event for a full refund or transfer. After this, there will be no refunds/transfers provided.
-
 
 
 
