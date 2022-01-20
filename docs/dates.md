@@ -6,27 +6,27 @@ permalink: /dates/
 
 ## 2022 Dates
 
-| Date                | Layout (As voted on) |
+| Date                | Layout               |
 |---------------------|----------------------|
-| Saturday May 7      |                      |
-| Monday May 16       |                      |
-| Monday May 30       |                      |
-| Monday June 6       |                      |
-| Monday June 13      |                      |
-| Monday June 20      |                      |
-| Monday June 27      |                      |
-| Monday July 4       |                      |
-| Monday July 18      |                      |
-| Monday July 25      |                      |
-| Monday August 8     |                      |
-| Monday August 15    |                      |
-| Monday August 22    |                      |
-| Monday August 29    |                      |
-| Monday September 12 |                      |
-| Monday September 19 |                      |
-| Monday October 3    |                      |
-| Saturday October 8  |                      |
-| Sunday October 9    |                      |
+| Saturday May 7      |Technical             |
+| Monday May 16       |Technical             |
+| Monday May 30       |Voted on              |
+| Monday June 6       |Technical             |
+| Monday June 13      |Voted on              |
+| Monday June 20      |Reverse Alien         |
+| Monday June 27      |Voted on              |
+| Monday July 4       |Voted on              |
+| Monday July 18      |Long Track            |
+| Monday July 25      |Voted on              |
+| Monday August 8     |Voted on              |
+| Monday August 15    |Voted on              |
+| Monday August 22    |Modified              |
+| Monday August 29    |Alien                 |
+| Monday September 12 |Voted on              |
+| Monday September 19 |Voted on              |
+| Monday October 3    |Voted on              |
+| Saturday October 8  |Voted on              |
+| Sunday October 9    |Voted on              |
 
 
 
