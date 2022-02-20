@@ -49,7 +49,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 
 ## Pre-Season Bundles
-You can save money by purchasing a bundle package; available until April 29 2022
+You can save money by purchasing a bundle package; available until April 15 2022
 
 [Sign up for Pre-Season Bundle here](https://forms.gle/EfQjXFGG7cZLdTNQA)
 
