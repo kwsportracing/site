@@ -50,6 +50,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 ## Pre-Season Bundles
 You can save money by purchasing a bundle package; available until April 29 2022
+
 [Sign up for Pre-Season Bundle here](https://forms.gle/EfQjXFGG7cZLdTNQA)
 
 ## Registrations
@@ -66,20 +67,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 
 **IF WE DO NOT RECEIVE YOUR PAYMENT 1 WEEK PRIOR TO EVENT, YOUR RESERVATION IS AUTOMATICALLY CANCELLED**
 
-
-
-### Cancellation/Transfer Policy
-
-If you need to cancel/transfer a date you've pre-registered for, send us an email (kwsportracing@gmail.com). You can do this up to 1 week prior to the event for a full refund or transfer. After this, there will be no refunds/transfers provided.
-
-
-
-### Rain Policy
-
-Under review for 2022
-
 *Book early! Registration is capped.*
-
 
 
 
@@ -92,7 +80,6 @@ Get the most out of your bike and see the difference a properly setup ride makes
 
 #### Private Coaching ($20)
 Coaching sessions will be captured on video and shared with you
-
 
 
 
