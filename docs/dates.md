@@ -41,7 +41,7 @@ permalink: /dates/
 | 9:30am-9:45am         | Mandatory Rider's meeting                                                    |
 | 9:50am                | Sighting lap - Required for all who have not been to GBM before              |
 | 10:00am               | Lapping starts                                                               |
-| 1:00pm                | Lunch                                                                        |
+| 12:00pm               | Lunch                                                                        |
 | 2:00pm                | Lapping resumes                                                              |
 | 6:00pm                | Lapping ends                                                                 |
 
