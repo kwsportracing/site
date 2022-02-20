@@ -70,19 +70,6 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 *Book early! Registration is capped.*
 
 
-
-### Available Services
-
-To help out new riders, Drew offer some services to help you feel more comfortable on your machine and to help you find areas to improve your riding. Drew has years of experience racing with SOAR. Sign up at pit in/pit out with Drew after the sighting lap. Cash only.
-
-#### Suspension Setup ($20)
-Get the most out of your bike and see the difference a properly setup ride makes!
-
-#### Private Coaching ($20)
-Coaching sessions will be captured on video and shared with you
-
-
-
 ## Location
 
 [grandbendmotorplex.ca](http://www.grandbendmotorplex.ca/grand-bend-raceway/)
