@@ -5,6 +5,15 @@ permalink: /rules/
 ---
 
 ## Rules and Requirements
+It is your responsibility to read through this section and meet these requirements. If you have any questions, you can always [email us](mailto:kwsportracing@gmail.com)
+
+### Rain Policy
+
+We run rain or shine. If you prefer not to "risk" riding in the rain, you can always register at the gate. (Gate price applies)
+
+### Cancellation/Transfer Policy
+
+If you need to cancel/transfer a date you've pre-registered for, [email us](mailto:kwsportracing@gmail.com). You can do this up to 1 week prior to the event for a full refund or transfer. After this, there will be no refunds/transfers provided.
 
 ### Technical Requirements
 
@@ -30,8 +39,11 @@ permalink: /rules/
 - Intermediate/Yellow: Once bike in front of you has initiated their turn in, inside passing is restricted until after the apex. Passing on outside permitted. 
 - Advanced/Red: Passing permitted anywhere. However this is a track day, not a race. Do not be overly aggressive
 
-If you are in a session below the one you've registered in, you absolutely MUST respect the riders in that session and the corresponding passing rules. Failure to do so will result in the suspension of your step-down privileges for that day.
+
 
 Remember, everyone is here with a common hobby and the desire to improve. Do not be afraid to ask for help & advice. Likewise, please be generous and pass on your skills to other riders. Be social and part of the community!
+
+
+
 
 ![rules](/img/rules.jpg)
