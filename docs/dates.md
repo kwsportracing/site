@@ -42,7 +42,7 @@ permalink: /dates/
 | 9:50am                | Sighting lap - Required for all who have not been to GBM before              |
 | 10:00am               | Lapping starts                                                               |
 | 12:00pm               | Lunch                                                                        |
-| 2:00pm                | Lapping resumes                                                              |
+| 1:00pm                | Lapping resumes                                                              |
 | 6:00pm                | Lapping ends                                                                 |
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
