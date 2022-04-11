@@ -61,7 +61,7 @@ You can pre-register at the link below:
 
 AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment link:
 
-[Credit Card Payment Link](https://google.ca)
+[Credit Card Payment Link](https://buy.stripe.com/4gw3cd0Lyc6w7rq6os)
 
 **Pre-registration price applies when registering AND sending payment at least 1 week prior to the event.**
 
