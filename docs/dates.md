@@ -47,12 +47,6 @@ permalink: /dates/
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
-
-## Pre-Season Bundles
-You can save money by purchasing a bundle package; available until April 15 2022
-
-[Sign up for Pre-Season Bundle here](https://forms.gle/EfQjXFGG7cZLdTNQA)
-
 ## Registrations
 Pre-Registration pricing is $160, trackside registration is $180(cash only and space permitting).
 You can pre-register at the link below:
