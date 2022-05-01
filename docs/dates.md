@@ -8,7 +8,7 @@ permalink: /dates/
 
 | Date                | Layout               |
 |---------------------|----------------------|
-| Saturday May 7      |Technical             |
+| Saturday May 7      |Modified              |
 | Monday May 16       |Technical             |
 | Monday May 30       |Voted on              |
 | Monday June 6       |Technical             |
