@@ -64,7 +64,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 *Book early! Registration is capped.*
 
 ## Waiver
-To save time during check in, you can print/sign your waiver [here](/assets/waivers/GBM 2022 Waiver.pdf).
+To save time during check in, you can print/sign your waiver [here](/assets/waivers/"GBM 2022 Waiver.pdf").
 
 ## Location
 
