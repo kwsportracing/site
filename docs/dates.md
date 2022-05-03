@@ -6,7 +6,7 @@ permalink: /dates/
 
 ## 2022 Dates
 
-| Date                | Layout               | . . . | Date                | Layout               |
+| **Date**            | **Layout**           | . . . | **Date**            | **Layout**           |
 |---------------------|----------------------|-------|---------------------|----------------------|
 | Saturday May 7      |Modified              |       | Monday August 8     |Voted on              |
 | Monday May 16       |Technical             |       | Monday August 15    |Voted on              |
@@ -22,7 +22,7 @@ permalink: /dates/
 
 ### Day Overview
 
-| Time                  | Description                                                                  |
+| **Time**              | **Description**                                                              |
 |-----------------------|------------------------------------------------------------------------------|
 | 6:30pm the day before | Gates open, camp overnight if you'd like! (Gates lock: 10pm)                 |
 | 8:00am                | Gates open                                                                   |
