@@ -54,7 +54,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 
 When event is less than 7 days away, you can register at gate (space permitting).
 
-*CASH ONLY AT GATE*
+*CASH ONLY AT GATE; BBQ Lunch not guaranteed for gate registrations*
 
 
 
