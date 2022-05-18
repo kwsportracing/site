@@ -9,8 +9,8 @@ permalink: /dates/
 | **Date**            | **Layout**           | . . . | **Date**            | **Layout**           |
 |---------------------|----------------------|-------|---------------------|----------------------|
 | Saturday May 7      |Modified              |       | Monday August 8     |Voted on              |
-| Monday May 16       |Technical             |       | Monday August 15    |Voted on              |
-| Monday May 30       |Voted on              |       | Monday August 22    |Modified              |
+| Monday May 16       |Modified              |       | Monday August 15    |Voted on              |
+| Monday May 30       |Technical             |       | Monday August 22    |Modified              |
 | Monday June 6       |Technical             |       | Monday August 29    |Alien                 |
 | Monday June 13      |Voted on              |       | Monday September 12 |Voted on              |
 | Monday June 20      |Reverse Alien         |       | Monday September 19 |Voted on              |
