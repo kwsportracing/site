@@ -12,7 +12,7 @@ permalink: /dates/
 | Monday May 16       |Modified              |       | Monday August 15    |Voted on              |
 | Monday May 30       |Technical             |       | Monday August 22    |Modified              |
 | Monday June 6       |Technical             |       | Monday August 29    |Alien                 |
-| Monday June 13      |Vote in Progress!     |       | Monday September 12 |Voted on              |
+| Monday June 13      |Reverse Alien         |       | Monday September 12 |Voted on              |
 | Monday June 20      |Reverse Alien         |       | Monday September 19 |Voted on              |
 | Monday June 27      |Voted on              |       | Monday October 3    |Voted on              |
 | Monday July 4       |Voted on              |       | Saturday October 8  |Voted on              |
