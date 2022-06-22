@@ -34,7 +34,7 @@ A: No, a perfectly stock bike will be more than capable for your first track day
 
 **Q: What if the forecast is showing a strong change of rain?**
 
-A: In the event that the forecast is showing a strong chance of rain, we will open a poll for those that have pre-registered for that day. If the majority vote in favor of running the day, the day will be run as normal. If majority vote against, that day will be cancelled and full refunds will be issued to those who have pre-registered
+A: You can hold off as long as you want and complete a gate registration. Gate registrations are $180 cash only and space permitting.
 
 ## Tips & Advice from other riders
 
