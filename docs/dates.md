@@ -14,7 +14,7 @@ permalink: /dates/
 | Monday June 6       |Technical             |       | Monday August 29    |Alien                 |
 | Monday June 13      |Reverse Alien         |       | Monday September 12 |Voted on              |
 | Monday June 20      |Reverse Alien         |       | Monday September 19 |Voted on              |
-| Monday June 27      |Voted on              |       | Monday October 3    |Voted on              |
+| Monday June 27      |Technical             |       | Monday October 3    |Voted on              |
 | Monday July 4       |Voted on              |       | Saturday October 8  |Voted on              |
 | Monday July 18      |Long Track            |       | Sunday October 9    |Voted on              |
 | Monday July 25      |Voted on              |
