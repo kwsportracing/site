@@ -17,7 +17,7 @@ permalink: /dates/
 | Monday June 27      |Technical             |       | Monday October 3    |Voted on              |
 | Monday July 4       |Reverse Technical     |       | Saturday October 8  |Voted on              |
 | Monday July 18      |Long Track            |       | Sunday October 9    |Voted on              |
-| Monday July 25      |Voted on              |
+| Monday July 25      |Reverse Technical     |
 
 
 ### Day Overview
