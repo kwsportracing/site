@@ -13,8 +13,8 @@ permalink: /dates/
 | Monday May 30       |Technical             |       | Monday August 22    |Modified              |
 | Monday June 6       |Technical             |       | Monday August 29    |Alien                 |
 | Monday June 13      |Reverse Alien         |       | Monday September 19 |Technical             |
-| Monday June 20      |Reverse Alien         |       | Saturday October 8  |Long Track            |
-| Monday June 27      |Technical             |       | Sunday October 9    |Technical             |
+| Monday June 20      |Reverse Alien         |       | Sunday October 9    |Technical             |
+| Monday June 27      |Technical             |       
 | Monday July 4       |Reverse Technical     |    
 | Monday July 18      |Long Track            |       
 | Monday July 25      |Reverse Technical     |
