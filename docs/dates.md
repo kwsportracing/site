@@ -36,7 +36,7 @@ permalink: /dates/
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
-## Pre-Registrations - $160
+## Pre-Registrations - $TBD
 
 **Pre-registration price applies when pre-registering AND sending payment at least 1 week prior to the event.**
 
@@ -50,7 +50,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 
 *Book early! Registration is capped.*
 
-## Gate Registrations - $180
+## Gate Registrations - $TBD
 
 When event is less than 7 days away, you can register at gate (space permitting).
 
