@@ -4,20 +4,20 @@ title: Dates and Location
 permalink: /dates/
 ---
 
-## 2022 Dates
+## 2023 Dates
 
-| **Date**            | **Layout**           | . . . | **Date**            | **Layout**           |
-|---------------------|----------------------|-------|---------------------|----------------------|
-| Saturday May 7      |Modified              |       | Monday August 8     |Alien                 |
-| Monday May 16       |Modified              |       | Monday August 15    |Modified              |
-| Monday May 30       |Technical             |       | Monday August 22    |Modified              |
-| Monday June 6       |Technical             |       | Monday August 29    |Alien                 |
-| Monday June 13      |Reverse Alien         |       | Monday September 19 |Technical             |
-| Monday June 20      |Reverse Alien         |       | Sunday October 9    |Technical             |
-| Monday June 27      |Technical             |       
-| Monday July 4       |Reverse Technical     |    
-| Monday July 18      |Long Track            |       
-| Monday July 25      |Reverse Technical     |
+| **Date**            | **Layout**           | . . . | **Date**             | **Layout**           |
+|---------------------|----------------------|-------|----------------------|----------------------|
+| Saturday May 6      |Modified              |       | Monday August 14     |Voted On              |
+| Monday May 15       |Voted On              |       | Thursday August 24   |Voted On              |
+| Thursday May 25     |Technical             |       | Monday September 11  |Voted On              |
+| Monday June 5       |Voted On              |       | Thursday September 28|Voted On              |
+| Thursday June 8     |Technical             |       | Saturday October 7   |Voted On              |
+| Thursday June 22    |Voted On              |       | Sunday October 8     |Voted On              |
+| Monday June 26      |Voted On              |       
+| Monday July 10      |Voted On              |    
+| Monday July 24      |Voted On              |       
+
 
 
 ### Day Overview
