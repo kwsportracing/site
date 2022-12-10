@@ -36,7 +36,11 @@ permalink: /dates/
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
-## Pre-Registrations - $170
+## Pre-Season Bundles
+
+[Get your bundle!](https://forms.gle/agGfHR9Z4MssRa9h6)
+
+## Pre-Registrations - $170 ($200 weekend)
 
 **Pre-registration price applies when pre-registering AND sending payment at least 1 week prior to the event.**
 
@@ -50,7 +54,7 @@ AFTER you have completed the form above, IF you are paying with Credit Card, use
 
 *Book early! Registration is capped.*
 
-## Gate Registrations - $190
+## Gate Registrations - $190 ($220 weekend)
 
 When event is less than 7 days away, you can register at gate (space permitting).
 
