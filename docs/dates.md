@@ -45,9 +45,10 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 [Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSf82q-DZeIdHmxquDC1o1nX7AzehSfPzhEV7LmHcGPR8LsuIQ/viewform?usp=sf_link)
 
-AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment link:
+AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment links:
 
-[Credit Card Payment Link](https://buy.stripe.com/4gw3cd0Lyc6w7rq6os)
+[WEEKDAY Credit Card Payment Link](https://buy.stripe.com/00g7st79W8Uk8vu5kr)
+[WEEKEND Credit Card Payment Link](https://buy.stripe.com/5kAbIJ2TG7Qg132bIN)
 
 **IF WE DO NOT RECEIVE YOUR PAYMENT 1 WEEK PRIOR TO EVENT, YOUR RESERVATION IS AUTOMATICALLY CANCELLED**
 
