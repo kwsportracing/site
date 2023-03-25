@@ -48,6 +48,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment links:
 
 [WEEKDAY Credit Card Payment Link](https://buy.stripe.com/00g7st79W8Uk8vu5kr)
+
 [WEEKEND Credit Card Payment Link](https://buy.stripe.com/5kAbIJ2TG7Qg132bIN)
 
 **IF WE DO NOT RECEIVE YOUR PAYMENT 1 WEEK PRIOR TO EVENT, YOUR RESERVATION IS AUTOMATICALLY CANCELLED**
