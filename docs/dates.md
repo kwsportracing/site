@@ -10,11 +10,11 @@ permalink: /dates/
 |---------------------|----------------------|-------|----------------------|----------------------|
 | Saturday May 6      |Modified              |       | Monday August 14     |Voted On              |
 | Monday May 15       |Voted On              |       | Thursday August 24   |Voted On              |
-| Thursday May 25     |Technical             |       | Monday September 11  |Voted On              |
-| Monday June 5       |Voted On              |       | Thursday September 28|Voted On              |                              
-| Thursday June 22    |Voted On              |       | Saturday October 7   |Voted On              |
-| Monday June 26      |Voted On              |       | Sunday October 8     |Voted On              |
-| Monday July 10      |Voted On              |    
+| Thursday May 25     |Technical             |       | Thursday September 7 |Voted On              |
+| Monday June 5       |Voted On              |       | Monday September 11  |Voted On              |                              
+| Thursday June 22    |Voted On              |       | Thursday September 28|Voted On              |
+| Monday June 26      |Voted On              |       | Saturday October 7   |Voted On              |
+| Monday July 10      |Voted On              |       | Sunday October 8     |Voted On              |
 | Monday July 24      |Voted On              |       
 
 
