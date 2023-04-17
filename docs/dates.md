@@ -43,7 +43,7 @@ Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
 **Pre-registration price applies when pre-registering AND sending payment at least 1 week prior to the event.**
 
-[Sign Up Here](https://docs.google.com/forms/d/e/1FAIpQLSf82q-DZeIdHmxquDC1o1nX7AzehSfPzhEV7LmHcGPR8LsuIQ/viewform?usp=sf_link)
+[Sign Up Here](https://forms.gle/yKHhoN7DuDRbLWcJA)
 
 AFTER you have completed the form above, IF you are paying with Credit Card, use the following payment links:
 
