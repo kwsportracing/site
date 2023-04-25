@@ -35,10 +35,6 @@ permalink: /dates/
 
 Depending on attendance, we will either run 2 or 3 groups at our discretion.
 
-## Pre-Season Bundles
-
-[Get your bundle!](https://forms.gle/agGfHR9Z4MssRa9h6)
-
 ## Pre-Registrations - $170 ($200 weekend)
 
 **Pre-registration price applies when pre-registering AND sending payment at least 1 week prior to the event.**
