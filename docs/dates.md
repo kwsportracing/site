@@ -60,7 +60,7 @@ When event is less than 7 days away, you can register at gate (space permitting)
 
 
 ## Waiver
-To save time during check in, you can print/sign your waiver [here.](https://drive.google.com/file/d/1-VUfnzoDx0thAAVLSt_NaTPA7BSNZjJa/view?usp=sharing)
+To save time during check in, you can print/sign your waiver [here.](https://drive.google.com/file/d/1BOBIBmM_7Y_iKUKtFO_ZFKxqYi4q8teK/view?usp=sharing)
 
 ## Location
 
