@@ -8,7 +8,7 @@ permalink: /dates/
 
 | **Date**            | **Layout**           | . . . | **Date**             | **Layout**           |
 |---------------------|----------------------|-------|----------------------|----------------------|
-| Saturday May 6      |Modified              |       | Monday August 14     |Voted On              |
+| Saturday May 6      |CANCELLED             |       | Monday August 14     |Voted On              |
 | Monday May 15       |Voted On              |       | Thursday August 24   |Voted On              |
 | Thursday May 25     |Technical             |       | Thursday September 7 |Voted On              |
 | Monday June 5       |Voted On              |       | Monday September 11  |Voted On              |                              
