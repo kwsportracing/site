@@ -10,7 +10,7 @@ permalink: /dates/
 |---------------------|----------------------|-------|----------------------|----------------------|
 | Saturday May 6      |Modified              |       | Monday August 14     |Voted On              |
 | Monday May 15       |Technical             |       | Thursday August 24   |Long Track            |
-| Thursday May 25     |Technical             |       | Thursday September 7 |Voted On              |
+| Thursday May 25     |Technical             |
 | Monday June 5       |Technical             |       | Monday September 11  |Voted On              |                              
 | Thursday June 22    |Reverse Alien         |       | Thursday September 28|Voted On              |
 | Monday July 10      |Modified              |       | Saturday October 7   |Voted On              |
