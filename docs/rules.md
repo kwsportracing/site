@@ -9,7 +9,7 @@ It is your responsibility to read through this section and meet these requiremen
 
 ### Rain Policy
 
-We run rain or shine. If you prefer not to "risk" riding in the rain, you can always register at the gate. (Gate price applies)
+We run rain or shine at our discretion. If you prefer not to "risk" riding in the rain, you can always register at the gate. (Gate price applies)
 
 ### Cancellation/Transfer Policy
 
