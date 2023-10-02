@@ -13,7 +13,7 @@ permalink: /dates/
 | Thursday May 25     |Technical             |       | Monday September 11  |Reverse Technical     |
 | Monday June 5       |Technical             |       | Thursday September 28|Technical             |                                    
 | Thursday June 22    |Reverse Alien         |       | Saturday October 7   |Voted On              |    
-| Monday July 10      |Modified              |       | Sunday October 8     |Voted On              | 
+| Monday July 10      |Modified              |      
 | Monday July 24      |Modified              |      
 
 
